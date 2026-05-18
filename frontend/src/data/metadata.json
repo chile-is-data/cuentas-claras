@@ -1,0 +1,77 @@
+{
+  "generated_at": "2026-05-18T15:46:36.582811",
+  "status_filter": {
+    "included": [
+      "Aceptada",
+      "Recepcion Conforme"
+    ],
+    "excluded": [
+      "Enviada a Proveedor",
+      "En Proceso",
+      "Solicitud de Cancelacion"
+    ],
+    "rationale": "Only orders with confirmed spend are included. Aceptada = accepted by supplier. Recepcion Conforme = goods/services received and approved."
+  },
+  "amount_field": {
+    "column": "MontoNetoItemCLP",
+    "description": "Net amount per line item, normalised to CLP. Item-level — additive across rows without double-counting.",
+    "note": "MontoTotalOC is an order-level total repeated on every line item; summing it causes double-counting.",
+    "tax": "Pre-tax (IVA not included)."
+  },
+  "compra_agil_filter": {
+    "column": "ProveedorSeleccionado",
+    "rule": "Rows where ProveedorSeleccionado = NO are excluded (losing quotes, not actual spend).",
+    "rut_mismatch": "Orders where ProveedorRUT != RUTProveedorCotizacion are flagged in logs but kept."
+  },
+  "semestre_range": {
+    "start": "2015-1",
+    "end": "2025-2",
+    "note": "compra_agil starts 2020-1; other modalities start 2015-1."
+  },
+  "municipalities": [
+    "Cerrillos",
+    "Cerro Navia",
+    "Conchalí",
+    "El Bosque",
+    "Estación Central",
+    "Huechuraba",
+    "Independencia",
+    "La Cisterna",
+    "La Florida",
+    "La Granja",
+    "La Pintana",
+    "La Reina",
+    "Las Condes",
+    "Lo Barnechea",
+    "Lo Espejo",
+    "Lo Prado",
+    "Macul",
+    "Maipú",
+    "Pedro Aguirre Cerda",
+    "Peñalolén",
+    "Providencia",
+    "Pudahuel",
+    "Quilicura",
+    "Quinta Normal",
+    "Recoleta",
+    "Renca",
+    "San Joaquín",
+    "San Miguel",
+    "San Ramón",
+    "Santiago",
+    "Vitacura",
+    "Ñuñoa"
+  ],
+  "modalities": [
+    "compra_agil",
+    "convenio_marco",
+    "licitacion",
+    "trato_directo"
+  ],
+  "sources": [
+    "consolidado_compra_agil.csv",
+    "consolidado_convenio_marco.csv",
+    "consolidado_licitacion.csv",
+    "consolidado_trato_directo.csv"
+  ]
+}

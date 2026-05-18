@@ -1,0 +1,2455 @@
+﻿municipalidad,anio_semestre,tipo_compra,monto_neto_clp,n_items,n_ordenes
+Cerrillos,2015-1,convenio_marco,225350592,1609,347
+Cerrillos,2015-1,licitacion,411288275,1127,361
+Cerrillos,2015-1,trato_directo,210873313,99,64
+Cerrillos,2015-2,convenio_marco,522607799,2588,617
+Cerrillos,2015-2,licitacion,448457059,826,329
+Cerrillos,2015-2,trato_directo,162562557,127,60
+Cerrillos,2016-1,convenio_marco,605311543,1768,436
+Cerrillos,2016-1,licitacion,523571908,561,248
+Cerrillos,2016-1,trato_directo,60708479,37,30
+Cerrillos,2016-2,convenio_marco,574640836,1895,477
+Cerrillos,2016-2,licitacion,937614092,553,173
+Cerrillos,2016-2,trato_directo,53275189,39,32
+Cerrillos,2017-1,convenio_marco,335170300,1150,301
+Cerrillos,2017-1,licitacion,2976491828,763,292
+Cerrillos,2017-1,trato_directo,90959592,91,41
+Cerrillos,2017-2,convenio_marco,284290580,1332,336
+Cerrillos,2017-2,licitacion,457253050,517,218
+Cerrillos,2017-2,trato_directo,72278214,72,38
+Cerrillos,2018-1,convenio_marco,353968374,827,260
+Cerrillos,2018-1,licitacion,473150245,439,249
+Cerrillos,2018-1,trato_directo,144323625,102,42
+Cerrillos,2018-2,convenio_marco,1296252079,1221,485
+Cerrillos,2018-2,licitacion,1495351915,555,336
+Cerrillos,2018-2,trato_directo,321573456,117,66
+Cerrillos,2019-1,convenio_marco,644145258,1369,412
+Cerrillos,2019-1,licitacion,4775269425,492,250
+Cerrillos,2019-1,trato_directo,136138907,86,46
+Cerrillos,2019-2,convenio_marco,576924673,738,384
+Cerrillos,2019-2,licitacion,2196098308,488,302
+Cerrillos,2019-2,trato_directo,250957176,53,45
+Cerrillos,2020-1,convenio_marco,468945539,356,178
+Cerrillos,2020-1,licitacion,3242478103,186,144
+Cerrillos,2020-1,trato_directo,225170949,93,62
+Cerrillos,2020-2,compra_agil,45533284,484,124
+Cerrillos,2020-2,convenio_marco,1191112954,519,209
+Cerrillos,2020-2,licitacion,3611114546,308,203
+Cerrillos,2020-2,trato_directo,1173985812,44,38
+Cerrillos,2021-1,compra_agil,51983367,464,116
+Cerrillos,2021-1,convenio_marco,736065224,143,38
+Cerrillos,2021-1,licitacion,1083492434,266,126
+Cerrillos,2021-1,trato_directo,114661770,44,37
+Cerrillos,2021-2,compra_agil,130660003,798,253
+Cerrillos,2021-2,convenio_marco,304549344,143,49
+Cerrillos,2021-2,licitacion,379170712,254,111
+Cerrillos,2021-2,trato_directo,93613436,62,41
+Cerrillos,2022-1,compra_agil,77725845,464,140
+Cerrillos,2022-1,convenio_marco,99591981,40,13
+Cerrillos,2022-1,licitacion,2101661744,142,74
+Cerrillos,2022-1,trato_directo,598730936,55,31
+Cerrillos,2022-2,convenio_marco,162015104,29,21
+Cerrillos,2022-2,licitacion,1273889536,311,133
+Cerrillos,2022-2,trato_directo,1036241769,78,66
+Cerrillos,2023-1,compra_agil,112211956,422,223
+Cerrillos,2023-1,convenio_marco,349191284,103,33
+Cerrillos,2023-1,licitacion,3060810152,96,73
+Cerrillos,2023-1,trato_directo,1342578023,62,52
+Cerrillos,2023-2,compra_agil,226948093,753,421
+Cerrillos,2023-2,convenio_marco,190610264,49,35
+Cerrillos,2023-2,licitacion,1355580527,152,112
+Cerrillos,2023-2,trato_directo,413330205,25,21
+Cerrillos,2024-1,compra_agil,198469786,552,337
+Cerrillos,2024-1,convenio_marco,295871736,222,41
+Cerrillos,2024-1,licitacion,5321613282,141,103
+Cerrillos,2024-1,trato_directo,866520925,23,17
+Cerrillos,2024-2,compra_agil,341211957,679,518
+Cerrillos,2024-2,convenio_marco,344936873,54,18
+Cerrillos,2024-2,licitacion,8154114455,233,163
+Cerrillos,2024-2,trato_directo,218351508,19,17
+Cerrillos,2025-1,compra_agil,441690952,1550,263
+Cerrillos,2025-1,convenio_marco,241977753,64,16
+Cerrillos,2025-1,licitacion,3751509090,75,50
+Cerrillos,2025-1,trato_directo,36242848,9,8
+Cerrillos,2025-2,compra_agil,406102828,1146,232
+Cerrillos,2025-2,convenio_marco,28917239,43,7
+Cerrillos,2025-2,licitacion,786525312,30,24
+Cerrillos,2025-2,trato_directo,72876368,4,4
+Cerro Navia,2015-1,convenio_marco,88330536,158,74
+Cerro Navia,2015-1,licitacion,262108672,601,115
+Cerro Navia,2015-1,trato_directo,45233485,212,88
+Cerro Navia,2015-2,convenio_marco,129321029,578,149
+Cerro Navia,2015-2,licitacion,225331910,1324,194
+Cerro Navia,2015-2,trato_directo,69980682,386,118
+Cerro Navia,2016-1,convenio_marco,245838928,688,173
+Cerro Navia,2016-1,licitacion,142142345,502,92
+Cerro Navia,2016-1,trato_directo,97286661,387,119
+Cerro Navia,2016-2,convenio_marco,415521521,947,249
+Cerro Navia,2016-2,licitacion,981163841,1107,179
+Cerro Navia,2016-2,trato_directo,52820910,398,210
+Cerro Navia,2017-1,convenio_marco,318890610,1217,270
+Cerro Navia,2017-1,licitacion,74582301,427,88
+Cerro Navia,2017-1,trato_directo,42129457,192,56
+Cerro Navia,2017-2,convenio_marco,350046467,902,231
+Cerro Navia,2017-2,licitacion,446730559,757,94
+Cerro Navia,2017-2,trato_directo,481653281,284,72
+Cerro Navia,2018-1,convenio_marco,326123848,1031,239
+Cerro Navia,2018-1,licitacion,111776860,671,75
+Cerro Navia,2018-1,trato_directo,118587703,179,87
+Cerro Navia,2018-2,convenio_marco,422297085,502,196
+Cerro Navia,2018-2,licitacion,978232216,419,78
+Cerro Navia,2018-2,trato_directo,198136104,246,83
+Cerro Navia,2019-1,convenio_marco,342598211,307,133
+Cerro Navia,2019-1,licitacion,664670670,479,67
+Cerro Navia,2019-1,trato_directo,81698979,137,57
+Cerro Navia,2019-2,convenio_marco,396506369,246,117
+Cerro Navia,2019-2,licitacion,787133179,939,116
+Cerro Navia,2019-2,trato_directo,131122840,81,32
+Cerro Navia,2020-1,compra_agil,10481547,29,21
+Cerro Navia,2020-1,convenio_marco,311931599,161,67
+Cerro Navia,2020-1,licitacion,7954642654,192,49
+Cerro Navia,2020-1,trato_directo,349275435,103,32
+Cerro Navia,2020-2,compra_agil,15736717,528,11
+Cerro Navia,2020-2,convenio_marco,246342973,87,47
+Cerro Navia,2020-2,licitacion,736451891,512,86
+Cerro Navia,2020-2,trato_directo,1196502115,240,66
+Cerro Navia,2021-1,compra_agil,33128623,638,64
+Cerro Navia,2021-1,convenio_marco,207547381,70,34
+Cerro Navia,2021-1,licitacion,1969169500,211,51
+Cerro Navia,2021-1,trato_directo,102615071,246,63
+Cerro Navia,2021-2,compra_agil,89122473,1417,118
+Cerro Navia,2021-2,convenio_marco,91782942,29,23
+Cerro Navia,2021-2,licitacion,1776891088,463,91
+Cerro Navia,2021-2,trato_directo,174971768,133,38
+Cerro Navia,2022-1,compra_agil,78362525,1148,69
+Cerro Navia,2022-1,convenio_marco,141988972,18,15
+Cerro Navia,2022-1,licitacion,2638638338,193,58
+Cerro Navia,2022-1,trato_directo,299020127,23,20
+Cerro Navia,2022-2,convenio_marco,59980415,17,12
+Cerro Navia,2022-2,licitacion,1935974202,527,98
+Cerro Navia,2022-2,trato_directo,167110689,22,22
+Cerro Navia,2023-1,compra_agil,154444554,2511,118
+Cerro Navia,2023-1,convenio_marco,165921504,38,21
+Cerro Navia,2023-1,licitacion,3790990391,365,95
+Cerro Navia,2023-1,trato_directo,225556468,41,31
+Cerro Navia,2023-2,compra_agil,495891762,5319,463
+Cerro Navia,2023-2,convenio_marco,220634422,44,28
+Cerro Navia,2023-2,licitacion,4805522698,709,136
+Cerro Navia,2023-2,trato_directo,1296274162,123,101
+Cerro Navia,2024-1,compra_agil,509762908,4252,439
+Cerro Navia,2024-1,convenio_marco,744637026,200,65
+Cerro Navia,2024-1,licitacion,6404538474,654,184
+Cerro Navia,2024-1,trato_directo,1246738269,152,143
+Cerro Navia,2024-2,compra_agil,626304218,7597,413
+Cerro Navia,2024-2,convenio_marco,361759978,186,74
+Cerro Navia,2024-2,licitacion,3195626039,446,115
+Cerro Navia,2024-2,trato_directo,6866722882,85,66
+Cerro Navia,2025-1,compra_agil,892779767,6692,345
+Cerro Navia,2025-1,convenio_marco,728765206,419,74
+Cerro Navia,2025-1,licitacion,7415295519,316,154
+Cerro Navia,2025-1,trato_directo,634614578,89,84
+Cerro Navia,2025-2,compra_agil,1225981335,12913,555
+Cerro Navia,2025-2,convenio_marco,526281402,144,53
+Cerro Navia,2025-2,licitacion,3138269171,538,154
+Cerro Navia,2025-2,trato_directo,118599331,50,48
+Conchalí,2015-1,convenio_marco,309308774,971,347
+Conchalí,2015-1,licitacion,96092945,445,111
+Conchalí,2015-1,trato_directo,49450437,459,195
+Conchalí,2015-2,convenio_marco,406473477,1376,483
+Conchalí,2015-2,licitacion,142915487,268,103
+Conchalí,2015-2,trato_directo,46120072,493,215
+Conchalí,2016-1,convenio_marco,489963572,1685,495
+Conchalí,2016-1,licitacion,146311342,504,124
+Conchalí,2016-1,trato_directo,85095004,496,196
+Conchalí,2016-2,convenio_marco,338309340,2019,595
+Conchalí,2016-2,licitacion,137107402,122,45
+Conchalí,2016-2,trato_directo,39006895,405,154
+Conchalí,2017-1,convenio_marco,290487602,1790,474
+Conchalí,2017-1,licitacion,146664466,54,42
+Conchalí,2017-1,trato_directo,73302648,405,206
+Conchalí,2017-2,convenio_marco,332042320,1774,594
+Conchalí,2017-2,licitacion,102987600,142,44
+Conchalí,2017-2,trato_directo,86136116,539,190
+Conchalí,2018-1,convenio_marco,277781585,1274,464
+Conchalí,2018-1,licitacion,217835247,126,69
+Conchalí,2018-1,trato_directo,35834665,311,128
+Conchalí,2018-2,convenio_marco,303976399,931,434
+Conchalí,2018-2,licitacion,202744504,272,80
+Conchalí,2018-2,trato_directo,53407927,499,140
+Conchalí,2019-1,convenio_marco,341662922,826,336
+Conchalí,2019-1,licitacion,186233128,248,76
+Conchalí,2019-1,trato_directo,66084933,490,144
+Conchalí,2019-2,convenio_marco,472395578,865,362
+Conchalí,2019-2,licitacion,340059142,129,64
+Conchalí,2019-2,trato_directo,62644917,586,170
+Conchalí,2020-1,compra_agil,5547010,42,22
+Conchalí,2020-1,convenio_marco,240877115,407,125
+Conchalí,2020-1,licitacion,230619248,99,56
+Conchalí,2020-1,trato_directo,120809809,412,160
+Conchalí,2020-2,compra_agil,78452981,858,179
+Conchalí,2020-2,convenio_marco,1080338563,311,110
+Conchalí,2020-2,licitacion,595027516,151,34
+Conchalí,2020-2,trato_directo,373647613,136,72
+Conchalí,2021-1,compra_agil,64884194,727,164
+Conchalí,2021-1,convenio_marco,161419853,152,53
+Conchalí,2021-1,licitacion,132157417,55,35
+Conchalí,2021-1,trato_directo,24566611,12,11
+Conchalí,2021-2,compra_agil,99199387,896,244
+Conchalí,2021-2,convenio_marco,715869094,89,30
+Conchalí,2021-2,licitacion,560498618,93,51
+Conchalí,2021-2,trato_directo,74142145,3,3
+Conchalí,2022-1,compra_agil,91176572,601,207
+Conchalí,2022-1,convenio_marco,192157551,59,25
+Conchalí,2022-1,licitacion,946775989,75,55
+Conchalí,2022-1,trato_directo,436735856,9,9
+Conchalí,2022-2,convenio_marco,139752329,24,12
+Conchalí,2022-2,licitacion,212512879,94,48
+Conchalí,2022-2,trato_directo,525892692,18,18
+Conchalí,2023-1,compra_agil,110823747,1029,213
+Conchalí,2023-1,convenio_marco,187773759,60,15
+Conchalí,2023-1,licitacion,8051146449,97,78
+Conchalí,2023-1,trato_directo,636526696,18,17
+Conchalí,2023-2,compra_agil,241715932,1962,303
+Conchalí,2023-2,convenio_marco,267128122,111,29
+Conchalí,2023-2,licitacion,1357666768,189,105
+Conchalí,2023-2,trato_directo,41322987,8,8
+Conchalí,2024-1,compra_agil,128322964,726,239
+Conchalí,2024-1,convenio_marco,149042195,55,18
+Conchalí,2024-1,licitacion,12271111357,231,101
+Conchalí,2024-1,trato_directo,2740241997,28,22
+Conchalí,2024-2,compra_agil,167998629,1244,262
+Conchalí,2024-2,convenio_marco,285620658,78,21
+Conchalí,2024-2,licitacion,3169550258,218,95
+Conchalí,2024-2,trato_directo,102814769,14,13
+Conchalí,2025-1,compra_agil,505126476,1458,260
+Conchalí,2025-1,convenio_marco,101750891,14,9
+Conchalí,2025-1,licitacion,16185153336,61,46
+Conchalí,2025-1,trato_directo,16430137,4,4
+Conchalí,2025-2,compra_agil,613973796,4245,282
+Conchalí,2025-2,convenio_marco,152706483,10,4
+Conchalí,2025-2,licitacion,816097050,79,32
+El Bosque,2015-1,convenio_marco,311725303,866,342
+El Bosque,2015-1,licitacion,3976206606,3976,1283
+El Bosque,2015-1,trato_directo,286700485,259,202
+El Bosque,2015-2,convenio_marco,609126893,1525,536
+El Bosque,2015-2,licitacion,5537018608,4744,1415
+El Bosque,2015-2,trato_directo,458990956,1584,365
+El Bosque,2016-1,convenio_marco,530668292,1307,503
+El Bosque,2016-1,licitacion,4520604682,3264,1008
+El Bosque,2016-1,trato_directo,621113858,420,401
+El Bosque,2016-2,convenio_marco,1049912209,3241,1041
+El Bosque,2016-2,licitacion,4501540231,3571,1142
+El Bosque,2016-2,trato_directo,551634380,340,325
+El Bosque,2017-1,convenio_marco,1207411578,2920,1005
+El Bosque,2017-1,licitacion,4352718255,2180,997
+El Bosque,2017-1,trato_directo,470979738,420,379
+El Bosque,2017-2,convenio_marco,1892747259,5075,1619
+El Bosque,2017-2,licitacion,4258769314,1042,829
+El Bosque,2017-2,trato_directo,1559935496,541,477
+El Bosque,2018-1,convenio_marco,1227173853,3759,1202
+El Bosque,2018-1,licitacion,4717345552,1617,913
+El Bosque,2018-1,trato_directo,637561602,557,537
+El Bosque,2018-2,convenio_marco,2298591341,5120,1960
+El Bosque,2018-2,licitacion,4693114172,1571,926
+El Bosque,2018-2,trato_directo,1630432277,1169,717
+El Bosque,2019-1,convenio_marco,1567578461,2928,1050
+El Bosque,2019-1,licitacion,4259932032,858,673
+El Bosque,2019-1,trato_directo,1758560060,1289,786
+El Bosque,2019-2,convenio_marco,1962065093,4604,1700
+El Bosque,2019-2,licitacion,5790765259,963,824
+El Bosque,2019-2,trato_directo,1028598014,1153,380
+El Bosque,2020-1,compra_agil,1091550,7,4
+El Bosque,2020-1,convenio_marco,1045239689,1181,521
+El Bosque,2020-1,licitacion,3811479677,669,618
+El Bosque,2020-1,trato_directo,2389527144,809,478
+El Bosque,2020-2,compra_agil,94176420,488,161
+El Bosque,2020-2,convenio_marco,1408008531,1336,603
+El Bosque,2020-2,licitacion,5975661235,724,638
+El Bosque,2020-2,trato_directo,1539573578,368,295
+El Bosque,2021-1,compra_agil,219523648,914,350
+El Bosque,2021-1,convenio_marco,863516365,619,293
+El Bosque,2021-1,licitacion,3907683112,610,547
+El Bosque,2021-1,trato_directo,1718625485,177,166
+El Bosque,2021-2,compra_agil,583110705,3256,711
+El Bosque,2021-2,convenio_marco,1212536102,831,307
+El Bosque,2021-2,licitacion,5441254879,733,640
+El Bosque,2021-2,trato_directo,1130748267,159,151
+El Bosque,2022-1,compra_agil,628911500,3973,653
+El Bosque,2022-1,convenio_marco,421136964,230,110
+El Bosque,2022-1,licitacion,4876043299,770,624
+El Bosque,2022-1,trato_directo,1157674066,123,119
+El Bosque,2022-2,convenio_marco,498610479,211,99
+El Bosque,2022-2,licitacion,8435885703,717,594
+El Bosque,2022-2,trato_directo,1865578542,142,123
+El Bosque,2023-1,compra_agil,763099418,5980,798
+El Bosque,2023-1,convenio_marco,565140202,161,80
+El Bosque,2023-1,licitacion,7926649769,665,487
+El Bosque,2023-1,trato_directo,2761281018,129,113
+El Bosque,2023-2,compra_agil,1119778233,6632,1259
+El Bosque,2023-2,convenio_marco,636763134,482,124
+El Bosque,2023-2,licitacion,6964293916,680,556
+El Bosque,2023-2,trato_directo,3386987518,211,162
+El Bosque,2024-1,compra_agil,702230147,3668,789
+El Bosque,2024-1,convenio_marco,473940306,302,85
+El Bosque,2024-1,licitacion,24313522978,693,507
+El Bosque,2024-1,trato_directo,1148454725,224,116
+El Bosque,2024-2,compra_agil,984924141,5888,1087
+El Bosque,2024-2,convenio_marco,443233719,320,100
+El Bosque,2024-2,licitacion,15423627701,715,489
+El Bosque,2024-2,trato_directo,1328903429,113,103
+El Bosque,2025-1,compra_agil,1321897139,9579,474
+El Bosque,2025-1,convenio_marco,471488030,237,86
+El Bosque,2025-1,licitacion,7536596930,525,306
+El Bosque,2025-1,trato_directo,198458868,58,35
+El Bosque,2025-2,compra_agil,1853260943,10458,617
+El Bosque,2025-2,convenio_marco,263709094,246,74
+El Bosque,2025-2,licitacion,7621749348,548,274
+El Bosque,2025-2,trato_directo,73237548,22,15
+Estación Central,2015-1,convenio_marco,333472000,1367,377
+Estación Central,2015-1,licitacion,114727298,548,126
+Estación Central,2015-1,trato_directo,136067519,58,56
+Estación Central,2015-2,convenio_marco,554456399,2868,580
+Estación Central,2015-2,licitacion,2437054654,452,138
+Estación Central,2015-2,trato_directo,199857683,125,107
+Estación Central,2016-1,convenio_marco,474369417,1883,486
+Estación Central,2016-1,licitacion,401986068,666,104
+Estación Central,2016-1,trato_directo,238962934,101,99
+Estación Central,2016-2,convenio_marco,715621428,3787,965
+Estación Central,2016-2,licitacion,551035459,124,76
+Estación Central,2016-2,trato_directo,364181156,149,148
+Estación Central,2017-1,convenio_marco,290744956,1234,365
+Estación Central,2017-1,licitacion,137765133,72,36
+Estación Central,2017-1,trato_directo,1874350632,138,132
+Estación Central,2017-2,convenio_marco,677437006,3386,882
+Estación Central,2017-2,licitacion,42407730,113,46
+Estación Central,2017-2,trato_directo,382704542,146,140
+Estación Central,2018-1,convenio_marco,519032906,2757,715
+Estación Central,2018-1,licitacion,235801916,68,55
+Estación Central,2018-1,trato_directo,407882052,124,123
+Estación Central,2018-2,convenio_marco,763499194,3082,988
+Estación Central,2018-2,licitacion,79922811,56,45
+Estación Central,2018-2,trato_directo,596281905,181,151
+Estación Central,2019-1,convenio_marco,480601612,1718,449
+Estación Central,2019-1,licitacion,589014144,31,25
+Estación Central,2019-1,trato_directo,556200275,233,110
+Estación Central,2019-2,convenio_marco,561502300,4108,967
+Estación Central,2019-2,licitacion,526066034,28,27
+Estación Central,2019-2,trato_directo,373611377,199,137
+Estación Central,2020-1,compra_agil,395000,2,2
+Estación Central,2020-1,convenio_marco,423762107,818,231
+Estación Central,2020-1,licitacion,1395984549,39,34
+Estación Central,2020-1,trato_directo,536375802,152,124
+Estación Central,2020-2,compra_agil,6605954,70,10
+Estación Central,2020-2,convenio_marco,387051212,1240,365
+Estación Central,2020-2,licitacion,1575437783,22,22
+Estación Central,2020-2,trato_directo,1525586214,266,238
+Estación Central,2021-1,compra_agil,15170172,58,24
+Estación Central,2021-1,convenio_marco,216011940,252,104
+Estación Central,2021-1,licitacion,744036937,10,10
+Estación Central,2021-1,trato_directo,848336771,299,211
+Estación Central,2021-2,compra_agil,657834901,6599,500
+Estación Central,2021-2,convenio_marco,660744685,980,262
+Estación Central,2021-2,licitacion,61782374,5,5
+Estación Central,2021-2,trato_directo,468061392,80,80
+Estación Central,2022-1,compra_agil,510542619,5667,400
+Estación Central,2022-1,convenio_marco,207630758,159,63
+Estación Central,2022-1,licitacion,2985684874,502,60
+Estación Central,2022-1,trato_directo,216521036,36,33
+Estación Central,2022-2,convenio_marco,278353811,473,67
+Estación Central,2022-2,licitacion,362266742,699,73
+Estación Central,2022-2,trato_directo,390731961,56,50
+Estación Central,2023-1,compra_agil,667777189,3874,541
+Estación Central,2023-1,convenio_marco,442384265,513,70
+Estación Central,2023-1,licitacion,581486405,59,26
+Estación Central,2023-1,trato_directo,958786867,82,78
+Estación Central,2023-2,compra_agil,607411976,2081,681
+Estación Central,2023-2,convenio_marco,576459751,498,75
+Estación Central,2023-2,licitacion,2608726856,363,71
+Estación Central,2023-2,trato_directo,401182193,83,77
+Estación Central,2024-1,compra_agil,538307082,1172,600
+Estación Central,2024-1,convenio_marco,362244303,324,69
+Estación Central,2024-1,licitacion,1011236807,113,62
+Estación Central,2024-1,trato_directo,519184982,66,65
+Estación Central,2024-2,compra_agil,1069412629,1860,1258
+Estación Central,2024-2,convenio_marco,641313158,582,71
+Estación Central,2024-2,licitacion,2286945500,210,107
+Estación Central,2024-2,trato_directo,393738930,51,50
+Estación Central,2025-1,compra_agil,772571609,639,393
+Estación Central,2025-1,convenio_marco,424523695,344,46
+Estación Central,2025-1,licitacion,3671607878,237,46
+Estación Central,2025-1,trato_directo,91281226,9,9
+Estación Central,2025-2,compra_agil,864087121,1108,532
+Estación Central,2025-2,convenio_marco,368363102,406,48
+Estación Central,2025-2,licitacion,3159335707,51,29
+Estación Central,2025-2,trato_directo,37556168,7,6
+Huechuraba,2015-1,convenio_marco,485717673,994,493
+Huechuraba,2015-1,licitacion,2668757306,1101,195
+Huechuraba,2015-1,trato_directo,451019724,110,101
+Huechuraba,2015-2,convenio_marco,519152607,1398,554
+Huechuraba,2015-2,licitacion,2144192791,1893,357
+Huechuraba,2015-2,trato_directo,454250571,172,130
+Huechuraba,2016-1,convenio_marco,554448733,1518,517
+Huechuraba,2016-1,licitacion,1363945941,915,180
+Huechuraba,2016-1,trato_directo,172587670,383,132
+Huechuraba,2016-2,convenio_marco,899317545,1942,744
+Huechuraba,2016-2,licitacion,4515708568,1706,306
+Huechuraba,2016-2,trato_directo,193979815,377,148
+Huechuraba,2017-1,convenio_marco,672131293,1834,774
+Huechuraba,2017-1,licitacion,1069817630,876,149
+Huechuraba,2017-1,trato_directo,411573402,496,175
+Huechuraba,2017-2,convenio_marco,1335541994,3892,1107
+Huechuraba,2017-2,licitacion,2132393448,1207,297
+Huechuraba,2017-2,trato_directo,259047105,527,161
+Huechuraba,2018-1,convenio_marco,933655834,2784,1006
+Huechuraba,2018-1,licitacion,1509298234,608,225
+Huechuraba,2018-1,trato_directo,865976475,370,137
+Huechuraba,2018-2,convenio_marco,1759031757,4815,1505
+Huechuraba,2018-2,licitacion,1453141525,309,180
+Huechuraba,2018-2,trato_directo,1153718384,495,160
+Huechuraba,2019-1,convenio_marco,1445368482,2908,965
+Huechuraba,2019-1,licitacion,7190179244,523,166
+Huechuraba,2019-1,trato_directo,278167922,208,102
+Huechuraba,2019-2,convenio_marco,1491013112,3759,1213
+Huechuraba,2019-2,licitacion,16472465312,397,169
+Huechuraba,2019-2,trato_directo,350071772,203,101
+Huechuraba,2020-1,compra_agil,2063559,4,4
+Huechuraba,2020-1,convenio_marco,841142338,1596,512
+Huechuraba,2020-1,licitacion,1150701932,388,155
+Huechuraba,2020-1,trato_directo,650465122,305,124
+Huechuraba,2020-2,compra_agil,58396686,261,100
+Huechuraba,2020-2,convenio_marco,879599298,1187,496
+Huechuraba,2020-2,licitacion,3312080765,331,190
+Huechuraba,2020-2,trato_directo,457672624,195,73
+Huechuraba,2021-1,compra_agil,193419068,1528,275
+Huechuraba,2021-1,convenio_marco,612735119,616,280
+Huechuraba,2021-1,licitacion,3308957214,411,166
+Huechuraba,2021-1,trato_directo,1104763175,221,93
+Huechuraba,2021-2,compra_agil,416290864,4210,527
+Huechuraba,2021-2,convenio_marco,509649553,549,272
+Huechuraba,2021-2,licitacion,11412503302,317,176
+Huechuraba,2021-2,trato_directo,352774615,196,74
+Huechuraba,2022-1,compra_agil,389109210,2943,567
+Huechuraba,2022-1,convenio_marco,340241755,269,93
+Huechuraba,2022-1,licitacion,4342193786,311,169
+Huechuraba,2022-1,trato_directo,420538684,138,60
+Huechuraba,2022-2,convenio_marco,231822207,199,84
+Huechuraba,2022-2,licitacion,7794905376,478,248
+Huechuraba,2022-2,trato_directo,351421019,133,79
+Huechuraba,2023-1,compra_agil,497460128,2526,707
+Huechuraba,2023-1,convenio_marco,308548062,206,67
+Huechuraba,2023-1,licitacion,3032576430,358,208
+Huechuraba,2023-1,trato_directo,442787419,182,103
+Huechuraba,2023-2,compra_agil,826837270,5886,1018
+Huechuraba,2023-2,convenio_marco,204313778,171,50
+Huechuraba,2023-2,licitacion,15805613022,634,296
+Huechuraba,2023-2,trato_directo,807644060,192,98
+Huechuraba,2024-1,compra_agil,723020223,9012,767
+Huechuraba,2024-1,convenio_marco,328683252,204,64
+Huechuraba,2024-1,licitacion,20283470990,428,228
+Huechuraba,2024-1,trato_directo,1064862973,181,89
+Huechuraba,2024-2,compra_agil,787761242,5728,922
+Huechuraba,2024-2,convenio_marco,219765589,111,46
+Huechuraba,2024-2,licitacion,2530895549,545,204
+Huechuraba,2024-2,trato_directo,875598624,92,74
+Huechuraba,2025-1,compra_agil,1810055728,8241,876
+Huechuraba,2025-1,convenio_marco,400301809,327,60
+Huechuraba,2025-1,licitacion,5127140925,128,95
+Huechuraba,2025-1,trato_directo,248855412,43,38
+Huechuraba,2025-2,compra_agil,1925278999,9880,1237
+Huechuraba,2025-2,convenio_marco,602632655,446,76
+Huechuraba,2025-2,licitacion,8939295904,220,125
+Huechuraba,2025-2,trato_directo,166143920,28,27
+Independencia,2015-1,convenio_marco,362978872,1572,383
+Independencia,2015-1,licitacion,1036276913,437,327
+Independencia,2015-1,trato_directo,248489441,137,96
+Independencia,2015-2,convenio_marco,594297016,2418,686
+Independencia,2015-2,licitacion,2292154354,488,356
+Independencia,2015-2,trato_directo,316825247,188,175
+Independencia,2016-1,convenio_marco,651891817,1855,491
+Independencia,2016-1,licitacion,6832763649,474,302
+Independencia,2016-1,trato_directo,240670287,160,148
+Independencia,2016-2,convenio_marco,914604863,3328,738
+Independencia,2016-2,licitacion,1818974893,511,296
+Independencia,2016-2,trato_directo,179976649,380,217
+Independencia,2017-1,convenio_marco,487676660,1778,454
+Independencia,2017-1,licitacion,3151836964,415,283
+Independencia,2017-1,trato_directo,507297814,548,136
+Independencia,2017-2,convenio_marco,799235654,3005,667
+Independencia,2017-2,licitacion,1978466458,470,289
+Independencia,2017-2,trato_directo,97846212,539,129
+Independencia,2018-1,convenio_marco,474314181,1761,576
+Independencia,2018-1,licitacion,3280297309,487,357
+Independencia,2018-1,trato_directo,208094777,1045,175
+Independencia,2018-2,convenio_marco,802356486,2508,778
+Independencia,2018-2,licitacion,4674515224,376,233
+Independencia,2018-2,trato_directo,109178637,555,150
+Independencia,2019-1,convenio_marco,733731407,2203,702
+Independencia,2019-1,licitacion,2719595836,373,299
+Independencia,2019-1,trato_directo,159183399,651,151
+Independencia,2019-2,convenio_marco,1025106264,2762,798
+Independencia,2019-2,licitacion,1583751616,350,254
+Independencia,2019-2,trato_directo,157476251,725,145
+Independencia,2020-1,convenio_marco,799617571,1244,404
+Independencia,2020-1,licitacion,2313521877,300,209
+Independencia,2020-1,trato_directo,470721737,1641,312
+Independencia,2020-2,compra_agil,16741984,125,34
+Independencia,2020-2,convenio_marco,1268819280,1882,548
+Independencia,2020-2,licitacion,1276511271,231,141
+Independencia,2020-2,trato_directo,858042066,1276,363
+Independencia,2021-1,compra_agil,90319458,399,134
+Independencia,2021-1,convenio_marco,536760587,642,224
+Independencia,2021-1,licitacion,2127547180,360,179
+Independencia,2021-1,trato_directo,1824064562,1136,330
+Independencia,2021-2,compra_agil,226760201,1880,277
+Independencia,2021-2,convenio_marco,453194809,832,219
+Independencia,2021-2,licitacion,1977206977,292,189
+Independencia,2021-2,trato_directo,519082087,668,269
+Independencia,2022-1,compra_agil,254361703,1938,293
+Independencia,2022-1,convenio_marco,343918765,389,100
+Independencia,2022-1,licitacion,2097373706,489,239
+Independencia,2022-1,trato_directo,324501787,661,256
+Independencia,2022-2,convenio_marco,329358797,455,86
+Independencia,2022-2,licitacion,2584074326,749,258
+Independencia,2022-2,trato_directo,725277761,1354,437
+Independencia,2023-1,compra_agil,385673631,2470,415
+Independencia,2023-1,convenio_marco,325593937,364,70
+Independencia,2023-1,licitacion,3092187315,761,202
+Independencia,2023-1,trato_directo,1146575617,781,328
+Independencia,2023-2,compra_agil,810704441,5135,748
+Independencia,2023-2,convenio_marco,400829826,324,81
+Independencia,2023-2,licitacion,3558294497,1286,208
+Independencia,2023-2,trato_directo,282184572,181,58
+Independencia,2024-1,compra_agil,754267993,4814,755
+Independencia,2024-1,convenio_marco,360521248,316,67
+Independencia,2024-1,licitacion,6548625066,1120,210
+Independencia,2024-1,trato_directo,54189639,14,9
+Independencia,2024-2,compra_agil,757564508,3431,884
+Independencia,2024-2,convenio_marco,362316711,333,85
+Independencia,2024-2,licitacion,7994440238,694,182
+Independencia,2024-2,trato_directo,421246191,105,74
+Independencia,2025-1,compra_agil,1577117420,7542,639
+Independencia,2025-1,convenio_marco,270072767,255,62
+Independencia,2025-1,licitacion,3836677695,240,119
+Independencia,2025-1,trato_directo,210631622,24,13
+Independencia,2025-2,compra_agil,2621895839,31157,884
+Independencia,2025-2,convenio_marco,373320249,340,73
+Independencia,2025-2,licitacion,3295588751,532,113
+Independencia,2025-2,trato_directo,262152816,30,24
+La Cisterna,2015-1,convenio_marco,264041221,3505,602
+La Cisterna,2015-1,licitacion,333833426,679,278
+La Cisterna,2015-1,trato_directo,214110387,2409,622
+La Cisterna,2015-2,convenio_marco,493197256,3823,940
+La Cisterna,2015-2,licitacion,453134747,1002,447
+La Cisterna,2015-2,trato_directo,225622726,2161,622
+La Cisterna,2016-1,convenio_marco,794475789,4779,1119
+La Cisterna,2016-1,licitacion,425367558,726,373
+La Cisterna,2016-1,trato_directo,310569810,2380,573
+La Cisterna,2016-2,convenio_marco,1157147213,4478,1333
+La Cisterna,2016-2,licitacion,462159036,652,370
+La Cisterna,2016-2,trato_directo,475362623,3133,871
+La Cisterna,2017-1,convenio_marco,437532230,4226,940
+La Cisterna,2017-1,licitacion,259858560,591,347
+La Cisterna,2017-1,trato_directo,299749859,2090,610
+La Cisterna,2017-2,convenio_marco,878030104,4732,1245
+La Cisterna,2017-2,licitacion,258074551,474,267
+La Cisterna,2017-2,trato_directo,403505939,2349,701
+La Cisterna,2018-1,convenio_marco,573119380,4251,1064
+La Cisterna,2018-1,licitacion,266549027,355,193
+La Cisterna,2018-1,trato_directo,361033369,2260,693
+La Cisterna,2018-2,convenio_marco,647714292,3796,1146
+La Cisterna,2018-2,licitacion,275724234,425,285
+La Cisterna,2018-2,trato_directo,349294111,2113,647
+La Cisterna,2019-1,convenio_marco,679113029,4214,1240
+La Cisterna,2019-1,licitacion,219191749,453,295
+La Cisterna,2019-1,trato_directo,435104975,2283,590
+La Cisterna,2019-2,convenio_marco,1022525312,4212,1332
+La Cisterna,2019-2,licitacion,263624713,408,253
+La Cisterna,2019-2,trato_directo,517361698,2995,797
+La Cisterna,2020-1,compra_agil,4222042,26,19
+La Cisterna,2020-1,convenio_marco,695258802,2003,650
+La Cisterna,2020-1,licitacion,280263765,266,154
+La Cisterna,2020-1,trato_directo,1263519828,3156,785
+La Cisterna,2020-2,compra_agil,100935574,1292,153
+La Cisterna,2020-2,convenio_marco,890145594,2060,758
+La Cisterna,2020-2,licitacion,410845782,266,188
+La Cisterna,2020-2,trato_directo,1186899816,3223,799
+La Cisterna,2021-1,compra_agil,85915233,546,102
+La Cisterna,2021-1,convenio_marco,393924528,629,284
+La Cisterna,2021-1,licitacion,378735733,297,186
+La Cisterna,2021-1,trato_directo,675078663,3376,724
+La Cisterna,2021-2,compra_agil,358718184,3510,370
+La Cisterna,2021-2,convenio_marco,377417487,352,220
+La Cisterna,2021-2,licitacion,537087265,434,261
+La Cisterna,2021-2,trato_directo,962883704,3840,768
+La Cisterna,2022-1,compra_agil,509916757,5949,444
+La Cisterna,2022-1,convenio_marco,208018460,162,94
+La Cisterna,2022-1,licitacion,306142399,530,245
+La Cisterna,2022-1,trato_directo,482140845,2984,460
+La Cisterna,2022-2,convenio_marco,629273324,141,89
+La Cisterna,2022-2,licitacion,1808190652,712,330
+La Cisterna,2022-2,trato_directo,670172140,3199,605
+La Cisterna,2023-1,compra_agil,483603583,4135,466
+La Cisterna,2023-1,convenio_marco,540375416,228,73
+La Cisterna,2023-1,licitacion,1013814616,753,269
+La Cisterna,2023-1,trato_directo,698045949,2434,526
+La Cisterna,2023-2,compra_agil,1007470953,13654,769
+La Cisterna,2023-2,convenio_marco,624524338,328,85
+La Cisterna,2023-2,licitacion,912730757,793,256
+La Cisterna,2023-2,trato_directo,848919141,2021,519
+La Cisterna,2024-1,compra_agil,1066051085,10323,872
+La Cisterna,2024-1,convenio_marco,624410779,403,106
+La Cisterna,2024-1,licitacion,1488661705,1238,375
+La Cisterna,2024-1,trato_directo,1716796255,1084,266
+La Cisterna,2024-2,compra_agil,1617335105,19788,1118
+La Cisterna,2024-2,convenio_marco,315259378,270,80
+La Cisterna,2024-2,licitacion,2554810137,923,259
+La Cisterna,2024-2,trato_directo,785740100,739,261
+La Cisterna,2025-1,compra_agil,2392050487,14390,803
+La Cisterna,2025-1,convenio_marco,353461194,446,49
+La Cisterna,2025-1,licitacion,659490232,375,112
+La Cisterna,2025-1,trato_directo,47641195,42,30
+La Cisterna,2025-2,compra_agil,1110230202,11894,539
+La Cisterna,2025-2,convenio_marco,219750308,354,70
+La Cisterna,2025-2,licitacion,2973431153,642,314
+La Cisterna,2025-2,trato_directo,71418330,60,32
+La Florida,2015-1,convenio_marco,430806284,958,336
+La Florida,2015-1,licitacion,11881438852,1082,313
+La Florida,2015-1,trato_directo,40041900,61,35
+La Florida,2015-2,convenio_marco,571371244,759,338
+La Florida,2015-2,licitacion,2009356587,980,372
+La Florida,2015-2,trato_directo,428612895,120,71
+La Florida,2016-1,convenio_marco,533238258,847,357
+La Florida,2016-1,licitacion,1980792545,667,261
+La Florida,2016-1,trato_directo,95393863,66,39
+La Florida,2016-2,convenio_marco,260336424,388,130
+La Florida,2016-2,licitacion,3938299112,703,357
+La Florida,2016-2,trato_directo,173303009,81,47
+La Florida,2017-1,convenio_marco,253648202,530,182
+La Florida,2017-1,licitacion,12306340040,467,207
+La Florida,2017-1,trato_directo,206177663,86,58
+La Florida,2017-2,convenio_marco,898427380,657,271
+La Florida,2017-2,licitacion,7718002517,501,291
+La Florida,2017-2,trato_directo,261732898,184,107
+La Florida,2018-1,convenio_marco,376952639,538,237
+La Florida,2018-1,licitacion,2191122700,376,186
+La Florida,2018-1,trato_directo,115979681,83,80
+La Florida,2018-2,convenio_marco,351385967,543,212
+La Florida,2018-2,licitacion,2460643953,558,324
+La Florida,2018-2,trato_directo,83617069,96,67
+La Florida,2019-1,convenio_marco,293836468,370,166
+La Florida,2019-1,licitacion,1108134796,429,240
+La Florida,2019-1,trato_directo,69430044,71,68
+La Florida,2019-2,convenio_marco,407310850,596,196
+La Florida,2019-2,licitacion,2558168987,431,278
+La Florida,2019-2,trato_directo,241763153,42,36
+La Florida,2020-1,compra_agil,8195726,19,14
+La Florida,2020-1,convenio_marco,1946185244,303,151
+La Florida,2020-1,licitacion,33368443550,288,207
+La Florida,2020-1,trato_directo,2150147467,132,100
+La Florida,2020-2,compra_agil,64719337,277,98
+La Florida,2020-2,convenio_marco,952891532,407,190
+La Florida,2020-2,licitacion,4102304664,285,172
+La Florida,2020-2,trato_directo,1675761316,173,64
+La Florida,2021-1,compra_agil,150273249,1042,192
+La Florida,2021-1,convenio_marco,2648570657,237,123
+La Florida,2021-1,licitacion,15078359343,227,163
+La Florida,2021-1,trato_directo,4126394447,35,30
+La Florida,2021-2,compra_agil,179118743,613,289
+La Florida,2021-2,convenio_marco,182079231,180,41
+La Florida,2021-2,licitacion,5162349175,306,218
+La Florida,2021-2,trato_directo,30124149,16,14
+La Florida,2022-1,compra_agil,187469370,523,292
+La Florida,2022-1,convenio_marco,521118648,216,85
+La Florida,2022-1,licitacion,3316623262,265,169
+La Florida,2022-1,trato_directo,41910747,20,19
+La Florida,2022-2,convenio_marco,611788770,254,112
+La Florida,2022-2,licitacion,16346233952,350,247
+La Florida,2022-2,trato_directo,143836331,38,29
+La Florida,2023-1,compra_agil,499467055,2082,543
+La Florida,2023-1,convenio_marco,520454051,261,95
+La Florida,2023-1,licitacion,7572186942,522,259
+La Florida,2023-1,trato_directo,292369264,42,32
+La Florida,2023-2,compra_agil,882698704,8726,659
+La Florida,2023-2,convenio_marco,400445399,198,81
+La Florida,2023-2,licitacion,22075265136,600,370
+La Florida,2023-2,trato_directo,670183514,33,22
+La Florida,2024-1,compra_agil,728149603,2953,645
+La Florida,2024-1,convenio_marco,768803977,289,91
+La Florida,2024-1,licitacion,26732882384,535,362
+La Florida,2024-1,trato_directo,662790609,66,54
+La Florida,2024-2,compra_agil,1199414544,11832,796
+La Florida,2024-2,convenio_marco,650524653,223,102
+La Florida,2024-2,licitacion,9880898915,526,323
+La Florida,2024-2,trato_directo,1289169775,158,72
+La Florida,2025-1,compra_agil,1422327497,2559,362
+La Florida,2025-1,convenio_marco,994254062,322,97
+La Florida,2025-1,licitacion,17830941004,191,156
+La Florida,2025-1,trato_directo,2736239522,57,56
+La Florida,2025-2,compra_agil,2120015433,9953,532
+La Florida,2025-2,convenio_marco,1018009180,400,98
+La Florida,2025-2,licitacion,12943337727,254,127
+La Florida,2025-2,trato_directo,1156482738,35,30
+La Granja,2015-1,convenio_marco,324116224,524,217
+La Granja,2015-1,licitacion,2791520223,1556,938
+La Granja,2015-1,trato_directo,193126901,636,238
+La Granja,2015-2,convenio_marco,470315019,1531,459
+La Granja,2015-2,licitacion,1146531035,1214,864
+La Granja,2015-2,trato_directo,146789354,254,209
+La Granja,2016-1,convenio_marco,543610302,677,368
+La Granja,2016-1,licitacion,2413719444,1154,777
+La Granja,2016-1,trato_directo,550434970,567,332
+La Granja,2016-2,convenio_marco,679374247,1085,462
+La Granja,2016-2,licitacion,2630275170,1431,764
+La Granja,2016-2,trato_directo,440063655,884,373
+La Granja,2017-1,convenio_marco,534189716,770,428
+La Granja,2017-1,licitacion,1163275263,1079,609
+La Granja,2017-1,trato_directo,549221790,616,331
+La Granja,2017-2,convenio_marco,821896348,960,526
+La Granja,2017-2,licitacion,1073473251,2192,808
+La Granja,2017-2,trato_directo,305838982,799,292
+La Granja,2018-1,convenio_marco,791656101,1405,616
+La Granja,2018-1,licitacion,1570226491,2699,779
+La Granja,2018-1,trato_directo,324524179,445,233
+La Granja,2018-2,convenio_marco,1121538809,2294,888
+La Granja,2018-2,licitacion,956893628,2669,669
+La Granja,2018-2,trato_directo,190137236,420,218
+La Granja,2019-1,convenio_marco,1105511905,1856,736
+La Granja,2019-1,licitacion,1062871124,1840,566
+La Granja,2019-1,trato_directo,127274232,170,105
+La Granja,2019-2,convenio_marco,906757547,2160,700
+La Granja,2019-2,licitacion,1093432594,1202,615
+La Granja,2019-2,trato_directo,118299470,213,108
+La Granja,2020-1,compra_agil,301000,2,2
+La Granja,2020-1,convenio_marco,571228194,377,223
+La Granja,2020-1,licitacion,2828835704,469,282
+La Granja,2020-1,trato_directo,1749185784,284,191
+La Granja,2020-2,compra_agil,126435633,1159,237
+La Granja,2020-2,convenio_marco,580540743,454,215
+La Granja,2020-2,licitacion,2181113339,350,219
+La Granja,2020-2,trato_directo,1089566584,188,126
+La Granja,2021-1,compra_agil,204261594,1299,401
+La Granja,2021-1,convenio_marco,434154441,263,166
+La Granja,2021-1,licitacion,1875981922,370,261
+La Granja,2021-1,trato_directo,1943224394,148,101
+La Granja,2021-2,compra_agil,232610924,1260,451
+La Granja,2021-2,convenio_marco,425496572,172,123
+La Granja,2021-2,licitacion,3916915377,318,230
+La Granja,2021-2,trato_directo,107562884,43,29
+La Granja,2022-1,compra_agil,276851422,1181,505
+La Granja,2022-1,convenio_marco,277429983,136,86
+La Granja,2022-1,licitacion,1151364766,320,232
+La Granja,2022-1,trato_directo,375620967,31,25
+La Granja,2022-2,convenio_marco,258510990,95,48
+La Granja,2022-2,licitacion,3720715951,447,278
+La Granja,2022-2,trato_directo,1002052691,39,36
+La Granja,2023-1,compra_agil,346999705,1387,514
+La Granja,2023-1,convenio_marco,304773829,141,72
+La Granja,2023-1,licitacion,2304231172,373,267
+La Granja,2023-1,trato_directo,1595213324,28,26
+La Granja,2023-2,compra_agil,460983591,2084,743
+La Granja,2023-2,convenio_marco,524532586,120,59
+La Granja,2023-2,licitacion,15982778723,441,253
+La Granja,2023-2,trato_directo,129995322,32,26
+La Granja,2024-1,compra_agil,282145948,1513,457
+La Granja,2024-1,convenio_marco,367535240,91,36
+La Granja,2024-1,licitacion,8011420751,476,292
+La Granja,2024-1,trato_directo,207187312,38,33
+La Granja,2024-2,compra_agil,334300087,1558,597
+La Granja,2024-2,convenio_marco,913864349,92,36
+La Granja,2024-2,licitacion,3259994097,407,264
+La Granja,2024-2,trato_directo,470685367,31,26
+La Granja,2025-1,compra_agil,971941076,1995,612
+La Granja,2025-1,convenio_marco,479752875,128,61
+La Granja,2025-1,licitacion,3970731443,132,105
+La Granja,2025-1,trato_directo,349050097,24,24
+La Granja,2025-2,compra_agil,1163426886,2666,919
+La Granja,2025-2,convenio_marco,575499414,126,48
+La Granja,2025-2,licitacion,1219656198,98,78
+La Granja,2025-2,trato_directo,83357272,14,11
+La Pintana,2015-1,convenio_marco,803100891,3950,907
+La Pintana,2015-1,licitacion,4780214870,3522,1060
+La Pintana,2015-1,trato_directo,192482403,46,42
+La Pintana,2015-2,convenio_marco,1107155240,4833,1359
+La Pintana,2015-2,licitacion,3659489203,4039,1459
+La Pintana,2015-2,trato_directo,109044518,80,48
+La Pintana,2016-1,convenio_marco,1307672176,6053,1420
+La Pintana,2016-1,licitacion,8656472283,2849,1006
+La Pintana,2016-1,trato_directo,220345113,66,42
+La Pintana,2016-2,convenio_marco,1385206426,5254,1638
+La Pintana,2016-2,licitacion,5122126234,2959,1057
+La Pintana,2016-2,trato_directo,285462702,124,52
+La Pintana,2017-1,convenio_marco,1113240793,4783,1136
+La Pintana,2017-1,licitacion,3687724951,2396,742
+La Pintana,2017-1,trato_directo,141619166,49,46
+La Pintana,2017-2,convenio_marco,1605304131,6305,1707
+La Pintana,2017-2,licitacion,1994967736,2427,924
+La Pintana,2017-2,trato_directo,670323354,77,72
+La Pintana,2018-1,convenio_marco,1430996314,4765,1276
+La Pintana,2018-1,licitacion,3478597312,2347,873
+La Pintana,2018-1,trato_directo,595354640,187,69
+La Pintana,2018-2,convenio_marco,2781272073,7155,1889
+La Pintana,2018-2,licitacion,5957780646,3003,871
+La Pintana,2018-2,trato_directo,158229661,270,125
+La Pintana,2019-1,convenio_marco,1737987602,3468,1155
+La Pintana,2019-1,licitacion,7740097011,2595,707
+La Pintana,2019-1,trato_directo,229280031,230,93
+La Pintana,2019-2,convenio_marco,2739206905,4735,1414
+La Pintana,2019-2,licitacion,2710917741,2707,819
+La Pintana,2019-2,trato_directo,589646155,162,80
+La Pintana,2020-1,compra_agil,15996100,80,32
+La Pintana,2020-1,convenio_marco,1969868197,2664,769
+La Pintana,2020-1,licitacion,12133844370,1992,588
+La Pintana,2020-1,trato_directo,1112167348,211,116
+La Pintana,2020-2,compra_agil,279173448,2911,402
+La Pintana,2020-2,convenio_marco,1766186585,2386,784
+La Pintana,2020-2,licitacion,2696051443,1870,607
+La Pintana,2020-2,trato_directo,973029008,115,78
+La Pintana,2021-1,compra_agil,555727808,6777,472
+La Pintana,2021-1,convenio_marco,725155625,440,237
+La Pintana,2021-1,licitacion,6919863265,1926,521
+La Pintana,2021-1,trato_directo,671662404,70,60
+La Pintana,2021-2,compra_agil,438639638,5665,523
+La Pintana,2021-2,convenio_marco,954518923,626,235
+La Pintana,2021-2,licitacion,4874513355,3046,560
+La Pintana,2021-2,trato_directo,408215862,58,42
+La Pintana,2022-1,compra_agil,399088521,12048,354
+La Pintana,2022-1,convenio_marco,513966774,122,65
+La Pintana,2022-1,licitacion,5723902467,1631,356
+La Pintana,2022-1,trato_directo,2405473616,51,43
+La Pintana,2022-2,convenio_marco,433865064,231,73
+La Pintana,2022-2,licitacion,5089446041,2557,545
+La Pintana,2022-2,trato_directo,254430410,60,58
+La Pintana,2023-1,compra_agil,366081986,3368,391
+La Pintana,2023-1,convenio_marco,400420273,157,56
+La Pintana,2023-1,licitacion,7827880051,2466,384
+La Pintana,2023-1,trato_directo,448425134,58,54
+La Pintana,2023-2,compra_agil,658236267,6275,604
+La Pintana,2023-2,convenio_marco,341248137,208,51
+La Pintana,2023-2,licitacion,4065596417,2502,450
+La Pintana,2023-2,trato_directo,357143041,58,58
+La Pintana,2024-1,compra_agil,537801899,7724,492
+La Pintana,2024-1,convenio_marco,363209174,202,44
+La Pintana,2024-1,licitacion,10496215836,2170,349
+La Pintana,2024-1,trato_directo,239644306,56,45
+La Pintana,2024-2,compra_agil,580289505,7568,492
+La Pintana,2024-2,convenio_marco,202934429,128,27
+La Pintana,2024-2,licitacion,8011972714,3070,522
+La Pintana,2024-2,trato_directo,683534383,68,59
+La Pintana,2025-1,compra_agil,1377615779,10088,425
+La Pintana,2025-1,convenio_marco,360747276,159,35
+La Pintana,2025-1,licitacion,10206768380,334,216
+La Pintana,2025-1,trato_directo,585722488,24,24
+La Pintana,2025-2,compra_agil,1359636282,10968,523
+La Pintana,2025-2,convenio_marco,230365172,389,58
+La Pintana,2025-2,licitacion,6074920809,479,292
+La Pintana,2025-2,trato_directo,282424945,34,33
+La Reina,2015-1,convenio_marco,152612800,933,327
+La Reina,2015-1,licitacion,269482134,83,57
+La Reina,2015-1,trato_directo,34230389,54,51
+La Reina,2015-2,convenio_marco,272363984,967,330
+La Reina,2015-2,licitacion,159389858,48,35
+La Reina,2015-2,trato_directo,73904191,64,63
+La Reina,2016-1,convenio_marco,415065595,1147,406
+La Reina,2016-1,licitacion,67394781,41,33
+La Reina,2016-1,trato_directo,31897591,38,34
+La Reina,2016-2,convenio_marco,270307918,1091,377
+La Reina,2016-2,licitacion,60408148,28,24
+La Reina,2016-2,trato_directo,36541628,42,34
+La Reina,2017-1,convenio_marco,266142205,1146,437
+La Reina,2017-1,licitacion,61387317,32,18
+La Reina,2017-1,trato_directo,10793955,21,16
+La Reina,2017-2,convenio_marco,448645102,1075,408
+La Reina,2017-2,licitacion,125913249,18,18
+La Reina,2017-2,trato_directo,76337609,31,28
+La Reina,2018-1,convenio_marco,341133081,1068,387
+La Reina,2018-1,licitacion,124575760,26,19
+La Reina,2018-1,trato_directo,60771743,16,13
+La Reina,2018-2,convenio_marco,359896958,836,415
+La Reina,2018-2,licitacion,149219863,43,21
+La Reina,2018-2,trato_directo,51340851,44,39
+La Reina,2019-1,convenio_marco,743834410,906,359
+La Reina,2019-1,licitacion,473068401,35,22
+La Reina,2019-1,trato_directo,95699957,47,41
+La Reina,2019-2,convenio_marco,470850006,697,290
+La Reina,2019-2,licitacion,97227941,20,20
+La Reina,2019-2,trato_directo,123192228,75,55
+La Reina,2020-1,compra_agil,18788835,220,34
+La Reina,2020-1,convenio_marco,495252519,337,145
+La Reina,2020-1,licitacion,93426881,25,14
+La Reina,2020-1,trato_directo,179670638,103,55
+La Reina,2020-2,compra_agil,85958366,1391,141
+La Reina,2020-2,convenio_marco,519878772,610,161
+La Reina,2020-2,licitacion,189929935,38,22
+La Reina,2020-2,trato_directo,217217720,88,50
+La Reina,2021-1,compra_agil,147597892,991,202
+La Reina,2021-1,convenio_marco,717030700,178,103
+La Reina,2021-1,licitacion,579337998,45,27
+La Reina,2021-1,trato_directo,124025283,35,27
+La Reina,2021-2,compra_agil,142500309,1170,219
+La Reina,2021-2,convenio_marco,550909195,109,56
+La Reina,2021-2,licitacion,529802063,26,25
+La Reina,2021-2,trato_directo,93334176,28,27
+La Reina,2022-1,compra_agil,163440118,1014,247
+La Reina,2022-1,convenio_marco,334647004,105,53
+La Reina,2022-1,licitacion,152225468,25,18
+La Reina,2022-1,trato_directo,78288563,20,19
+La Reina,2022-2,convenio_marco,267572250,66,33
+La Reina,2022-2,licitacion,2433142571,33,33
+La Reina,2022-2,trato_directo,81831726,28,27
+La Reina,2023-1,compra_agil,186402886,1872,222
+La Reina,2023-1,convenio_marco,281116862,70,40
+La Reina,2023-1,licitacion,573394947,40,33
+La Reina,2023-1,trato_directo,134586462,28,23
+La Reina,2023-2,compra_agil,244606315,2460,266
+La Reina,2023-2,convenio_marco,268826464,81,36
+La Reina,2023-2,licitacion,401053711,37,31
+La Reina,2023-2,trato_directo,90880741,40,34
+La Reina,2024-1,compra_agil,191154269,676,180
+La Reina,2024-1,convenio_marco,364168475,67,35
+La Reina,2024-1,licitacion,2395072253,36,33
+La Reina,2024-1,trato_directo,112391464,35,30
+La Reina,2024-2,compra_agil,145075091,565,151
+La Reina,2024-2,convenio_marco,220305694,73,28
+La Reina,2024-2,licitacion,1120991784,47,40
+La Reina,2024-2,trato_directo,87307578,26,25
+La Reina,2025-1,compra_agil,227994612,346,136
+La Reina,2025-1,convenio_marco,173277405,133,42
+La Reina,2025-1,licitacion,547702737,26,23
+La Reina,2025-1,trato_directo,9694803,4,3
+La Reina,2025-2,compra_agil,173141417,259,156
+La Reina,2025-2,convenio_marco,499960146,54,26
+La Reina,2025-2,licitacion,1054140707,25,24
+La Reina,2025-2,trato_directo,5529181,2,2
+Las Condes,2015-1,convenio_marco,900411305,839,446
+Las Condes,2015-1,licitacion,1186854661,496,214
+Las Condes,2015-1,trato_directo,511719192,380,222
+Las Condes,2015-2,convenio_marco,1598868230,1126,588
+Las Condes,2015-2,licitacion,2986548327,502,217
+Las Condes,2015-2,trato_directo,643839838,440,249
+Las Condes,2016-1,convenio_marco,1563225341,1343,637
+Las Condes,2016-1,licitacion,9285499953,617,197
+Las Condes,2016-1,trato_directo,394764189,442,253
+Las Condes,2016-2,convenio_marco,1855386145,1426,732
+Las Condes,2016-2,licitacion,8618997740,520,217
+Las Condes,2016-2,trato_directo,227514944,397,227
+Las Condes,2017-1,convenio_marco,1448784023,1276,704
+Las Condes,2017-1,licitacion,1567102874,551,183
+Las Condes,2017-1,trato_directo,307245430,354,222
+Las Condes,2017-2,convenio_marco,2001876188,1286,707
+Las Condes,2017-2,licitacion,13696556587,682,215
+Las Condes,2017-2,trato_directo,694734422,475,276
+Las Condes,2018-1,convenio_marco,1704034597,1193,624
+Las Condes,2018-1,licitacion,9695810020,952,200
+Las Condes,2018-1,trato_directo,458300882,580,351
+Las Condes,2018-2,convenio_marco,3004487143,1109,601
+Las Condes,2018-2,licitacion,13375746753,885,193
+Las Condes,2018-2,trato_directo,313039846,417,257
+Las Condes,2019-1,convenio_marco,1633614427,1290,667
+Las Condes,2019-1,licitacion,1336933787,1012,167
+Las Condes,2019-1,trato_directo,818357880,569,285
+Las Condes,2019-2,convenio_marco,2193357462,1281,668
+Las Condes,2019-2,licitacion,2645775731,587,132
+Las Condes,2019-2,trato_directo,974093091,699,384
+Las Condes,2020-1,convenio_marco,2077300615,742,340
+Las Condes,2020-1,licitacion,783303727,298,116
+Las Condes,2020-1,trato_directo,4005055313,947,490
+Las Condes,2020-2,compra_agil,40375293,348,62
+Las Condes,2020-2,convenio_marco,2735915982,540,296
+Las Condes,2020-2,licitacion,2007777792,126,56
+Las Condes,2020-2,trato_directo,2462909110,686,474
+Las Condes,2021-1,compra_agil,76996349,752,121
+Las Condes,2021-1,convenio_marco,2115414599,272,177
+Las Condes,2021-1,licitacion,3559599749,136,79
+Las Condes,2021-1,trato_directo,2679132929,883,476
+Las Condes,2021-2,compra_agil,67604084,673,107
+Las Condes,2021-2,convenio_marco,616491435,129,88
+Las Condes,2021-2,licitacion,13880251375,216,124
+Las Condes,2021-2,trato_directo,1608829012,829,510
+Las Condes,2022-1,compra_agil,87246491,453,147
+Las Condes,2022-1,convenio_marco,488995580,90,40
+Las Condes,2022-1,licitacion,28205451280,190,123
+Las Condes,2022-1,trato_directo,1914675299,599,385
+Las Condes,2022-2,convenio_marco,418256624,91,50
+Las Condes,2022-2,licitacion,22868012067,201,153
+Las Condes,2022-2,trato_directo,1614216550,514,363
+Las Condes,2023-1,compra_agil,188307006,1095,336
+Las Condes,2023-1,convenio_marco,674615179,84,52
+Las Condes,2023-1,licitacion,46897134643,221,178
+Las Condes,2023-1,trato_directo,3357442703,272,225
+Las Condes,2023-2,compra_agil,217482670,1771,304
+Las Condes,2023-2,convenio_marco,205397684,133,33
+Las Condes,2023-2,licitacion,28212463167,346,219
+Las Condes,2023-2,trato_directo,1702897681,117,103
+Las Condes,2024-1,compra_agil,232878806,2214,308
+Las Condes,2024-1,convenio_marco,665370094,82,35
+Las Condes,2024-1,licitacion,10058071255,271,174
+Las Condes,2024-1,trato_directo,2066311582,55,55
+Las Condes,2024-2,compra_agil,228704260,1560,329
+Las Condes,2024-2,convenio_marco,696065548,128,58
+Las Condes,2024-2,licitacion,23270308907,425,235
+Las Condes,2024-2,trato_directo,2642050696,62,62
+Las Condes,2025-1,compra_agil,789451803,2641,268
+Las Condes,2025-1,convenio_marco,757437266,136,41
+Las Condes,2025-1,licitacion,38778120115,169,79
+Las Condes,2025-1,trato_directo,559108950,14,14
+Las Condes,2025-2,compra_agil,701097756,1170,169
+Las Condes,2025-2,convenio_marco,360073179,153,24
+Las Condes,2025-2,licitacion,69587062813,131,121
+Las Condes,2025-2,trato_directo,246717671,14,14
+Lo Barnechea,2015-1,convenio_marco,529551518,1489,399
+Lo Barnechea,2015-1,licitacion,13556381737,244,209
+Lo Barnechea,2015-1,trato_directo,782541923,176,104
+Lo Barnechea,2015-2,convenio_marco,1037075485,2743,633
+Lo Barnechea,2015-2,licitacion,6296373232,407,278
+Lo Barnechea,2015-2,trato_directo,494443624,257,135
+Lo Barnechea,2016-1,convenio_marco,1168097979,2769,710
+Lo Barnechea,2016-1,licitacion,14920556319,652,386
+Lo Barnechea,2016-1,trato_directo,722383717,288,127
+Lo Barnechea,2016-2,convenio_marco,1163326357,3446,969
+Lo Barnechea,2016-2,licitacion,7793859119,625,410
+Lo Barnechea,2016-2,trato_directo,1335633424,204,124
+Lo Barnechea,2017-1,convenio_marco,1269850594,2479,726
+Lo Barnechea,2017-1,licitacion,15321880008,548,385
+Lo Barnechea,2017-1,trato_directo,1160453207,157,120
+Lo Barnechea,2017-2,convenio_marco,1556262722,4249,1220
+Lo Barnechea,2017-2,licitacion,9300409060,690,352
+Lo Barnechea,2017-2,trato_directo,949106323,179,127
+Lo Barnechea,2018-1,convenio_marco,1771101045,3129,791
+Lo Barnechea,2018-1,licitacion,15143374635,612,254
+Lo Barnechea,2018-1,trato_directo,1507881337,126,109
+Lo Barnechea,2018-2,convenio_marco,2163861342,2148,717
+Lo Barnechea,2018-2,licitacion,14555393531,860,326
+Lo Barnechea,2018-2,trato_directo,1188865709,184,96
+Lo Barnechea,2019-1,convenio_marco,2427093407,3480,945
+Lo Barnechea,2019-1,licitacion,20553065431,926,392
+Lo Barnechea,2019-1,trato_directo,536261294,242,99
+Lo Barnechea,2019-2,convenio_marco,2448460406,2424,761
+Lo Barnechea,2019-2,licitacion,14734724723,1042,441
+Lo Barnechea,2019-2,trato_directo,291451892,163,81
+Lo Barnechea,2020-1,compra_agil,66910936,107,84
+Lo Barnechea,2020-1,convenio_marco,1982499345,1280,448
+Lo Barnechea,2020-1,licitacion,18997102001,847,417
+Lo Barnechea,2020-1,trato_directo,2124563450,169,106
+Lo Barnechea,2020-2,compra_agil,140691789,244,200
+Lo Barnechea,2020-2,convenio_marco,1218126143,1504,466
+Lo Barnechea,2020-2,licitacion,28182453145,776,346
+Lo Barnechea,2020-2,trato_directo,1373826608,93,48
+Lo Barnechea,2021-1,compra_agil,268898639,783,397
+Lo Barnechea,2021-1,convenio_marco,954280997,610,216
+Lo Barnechea,2021-1,licitacion,19212080210,383,256
+Lo Barnechea,2021-1,trato_directo,1084299883,73,47
+Lo Barnechea,2021-2,compra_agil,262048032,808,389
+Lo Barnechea,2021-2,convenio_marco,542127389,612,253
+Lo Barnechea,2021-2,licitacion,43828001688,497,215
+Lo Barnechea,2021-2,trato_directo,3783322441,82,45
+Lo Barnechea,2022-1,compra_agil,227245789,478,328
+Lo Barnechea,2022-1,convenio_marco,404870260,247,95
+Lo Barnechea,2022-1,licitacion,13075212636,647,314
+Lo Barnechea,2022-1,trato_directo,5196186378,101,64
+Lo Barnechea,2022-2,convenio_marco,589248306,299,121
+Lo Barnechea,2022-2,licitacion,14887117661,293,221
+Lo Barnechea,2022-2,trato_directo,1334826538,52,51
+Lo Barnechea,2023-1,compra_agil,345865210,695,564
+Lo Barnechea,2023-1,convenio_marco,757244657,261,94
+Lo Barnechea,2023-1,licitacion,18252299963,569,536
+Lo Barnechea,2023-1,trato_directo,964145700,71,68
+Lo Barnechea,2023-2,compra_agil,462502330,1097,726
+Lo Barnechea,2023-2,convenio_marco,482468268,198,86
+Lo Barnechea,2023-2,licitacion,48056840439,286,244
+Lo Barnechea,2023-2,trato_directo,586111921,130,58
+Lo Barnechea,2024-1,compra_agil,365601756,838,610
+Lo Barnechea,2024-1,convenio_marco,922015984,414,118
+Lo Barnechea,2024-1,licitacion,31295748411,186,166
+Lo Barnechea,2024-1,trato_directo,1384541090,69,68
+Lo Barnechea,2024-2,compra_agil,410999768,2017,581
+Lo Barnechea,2024-2,convenio_marco,742149762,577,146
+Lo Barnechea,2024-2,licitacion,19352515916,210,188
+Lo Barnechea,2024-2,trato_directo,673154008,89,73
+Lo Barnechea,2025-1,compra_agil,754159551,1492,565
+Lo Barnechea,2025-1,convenio_marco,616571393,277,81
+Lo Barnechea,2025-1,licitacion,51485983876,118,110
+Lo Barnechea,2025-1,trato_directo,889076853,16,16
+Lo Barnechea,2025-2,compra_agil,1420919889,9979,717
+Lo Barnechea,2025-2,convenio_marco,349540026,482,100
+Lo Barnechea,2025-2,licitacion,26784770022,168,153
+Lo Barnechea,2025-2,trato_directo,769854139,42,42
+Lo Espejo,2015-1,convenio_marco,165197483,457,143
+Lo Espejo,2015-1,licitacion,2392501258,749,415
+Lo Espejo,2015-1,trato_directo,54003963,59,48
+Lo Espejo,2015-2,convenio_marco,696858800,1098,367
+Lo Espejo,2015-2,licitacion,2137989097,920,673
+Lo Espejo,2015-2,trato_directo,122799944,169,113
+Lo Espejo,2016-1,convenio_marco,282319574,825,228
+Lo Espejo,2016-1,licitacion,2092058404,595,361
+Lo Espejo,2016-1,trato_directo,83983470,114,64
+Lo Espejo,2016-2,convenio_marco,726083435,1593,452
+Lo Espejo,2016-2,licitacion,1863748801,715,414
+Lo Espejo,2016-2,trato_directo,182465288,255,130
+Lo Espejo,2017-1,convenio_marco,232964135,1024,267
+Lo Espejo,2017-1,licitacion,935055438,294,228
+Lo Espejo,2017-1,trato_directo,56314555,129,72
+Lo Espejo,2017-2,convenio_marco,688989080,1982,537
+Lo Espejo,2017-2,licitacion,1328481061,454,297
+Lo Espejo,2017-2,trato_directo,72101403,108,88
+Lo Espejo,2018-1,convenio_marco,711936657,1436,374
+Lo Espejo,2018-1,licitacion,2199144179,444,239
+Lo Espejo,2018-1,trato_directo,107778743,67,57
+Lo Espejo,2018-2,convenio_marco,1043761155,2882,505
+Lo Espejo,2018-2,licitacion,2088782217,742,328
+Lo Espejo,2018-2,trato_directo,118461091,158,97
+Lo Espejo,2019-1,convenio_marco,565285785,895,345
+Lo Espejo,2019-1,licitacion,2945377723,490,268
+Lo Espejo,2019-1,trato_directo,70322120,107,49
+Lo Espejo,2019-2,convenio_marco,1581028814,2337,513
+Lo Espejo,2019-2,licitacion,2404787686,456,299
+Lo Espejo,2019-2,trato_directo,171729073,169,56
+Lo Espejo,2020-1,compra_agil,1380362,3,3
+Lo Espejo,2020-1,convenio_marco,554599066,534,153
+Lo Espejo,2020-1,licitacion,2413938868,295,166
+Lo Espejo,2020-1,trato_directo,622463961,117,91
+Lo Espejo,2020-2,compra_agil,50228129,126,112
+Lo Espejo,2020-2,convenio_marco,481026303,517,157
+Lo Espejo,2020-2,licitacion,1933370147,315,152
+Lo Espejo,2020-2,trato_directo,1889349244,188,111
+Lo Espejo,2021-1,compra_agil,59645668,132,128
+Lo Espejo,2021-1,convenio_marco,568017302,261,115
+Lo Espejo,2021-1,licitacion,3264925295,323,162
+Lo Espejo,2021-1,trato_directo,804247982,128,81
+Lo Espejo,2021-2,compra_agil,59177851,155,124
+Lo Espejo,2021-2,convenio_marco,438034972,266,102
+Lo Espejo,2021-2,licitacion,527739517,299,154
+Lo Espejo,2021-2,trato_directo,349053970,38,32
+Lo Espejo,2022-1,compra_agil,88753705,205,152
+Lo Espejo,2022-1,convenio_marco,270362910,123,45
+Lo Espejo,2022-1,licitacion,2911873735,301,144
+Lo Espejo,2022-1,trato_directo,123095828,26,22
+Lo Espejo,2022-2,convenio_marco,447733012,309,58
+Lo Espejo,2022-2,licitacion,3355266820,936,265
+Lo Espejo,2022-2,trato_directo,1220316822,166,63
+Lo Espejo,2023-1,compra_agil,106720082,186,185
+Lo Espejo,2023-1,convenio_marco,495306997,240,62
+Lo Espejo,2023-1,licitacion,4669348750,429,246
+Lo Espejo,2023-1,trato_directo,727755918,35,31
+Lo Espejo,2023-2,compra_agil,164715705,327,325
+Lo Espejo,2023-2,convenio_marco,376727457,267,50
+Lo Espejo,2023-2,licitacion,4886765063,661,322
+Lo Espejo,2023-2,trato_directo,421197242,58,33
+Lo Espejo,2024-1,compra_agil,95661720,181,181
+Lo Espejo,2024-1,convenio_marco,525326245,450,78
+Lo Espejo,2024-1,licitacion,7243186489,381,219
+Lo Espejo,2024-1,trato_directo,1102344636,135,79
+Lo Espejo,2024-2,compra_agil,117259303,220,220
+Lo Espejo,2024-2,convenio_marco,255446682,615,55
+Lo Espejo,2024-2,licitacion,16590045410,353,200
+Lo Espejo,2024-2,trato_directo,359059217,84,69
+Lo Espejo,2025-1,compra_agil,311708301,235,231
+Lo Espejo,2025-1,convenio_marco,413835634,260,43
+Lo Espejo,2025-1,licitacion,3361836956,127,78
+Lo Espejo,2025-1,trato_directo,1068303439,12,12
+Lo Espejo,2025-2,compra_agil,489859081,350,350
+Lo Espejo,2025-2,convenio_marco,248804802,187,31
+Lo Espejo,2025-2,licitacion,2443347879,141,87
+Lo Espejo,2025-2,trato_directo,496329851,32,32
+Lo Prado,2015-1,convenio_marco,313767924,1073,462
+Lo Prado,2015-1,licitacion,1033404135,849,207
+Lo Prado,2015-1,trato_directo,75006191,85,66
+Lo Prado,2015-2,convenio_marco,335567850,1127,549
+Lo Prado,2015-2,licitacion,726204599,536,211
+Lo Prado,2015-2,trato_directo,81483646,80,60
+Lo Prado,2016-1,convenio_marco,221994341,964,460
+Lo Prado,2016-1,licitacion,1395903007,528,176
+Lo Prado,2016-1,trato_directo,63004710,69,56
+Lo Prado,2016-2,convenio_marco,151653026,1271,611
+Lo Prado,2016-2,licitacion,236887046,492,169
+Lo Prado,2016-2,trato_directo,252230744,67,53
+Lo Prado,2017-1,convenio_marco,484455443,1142,598
+Lo Prado,2017-1,licitacion,1604859379,321,174
+Lo Prado,2017-1,trato_directo,235634072,66,56
+Lo Prado,2017-2,convenio_marco,185205513,1174,634
+Lo Prado,2017-2,licitacion,482968874,537,191
+Lo Prado,2017-2,trato_directo,225780507,87,66
+Lo Prado,2018-1,convenio_marco,245276525,1000,493
+Lo Prado,2018-1,licitacion,432244930,422,143
+Lo Prado,2018-1,trato_directo,49629887,52,43
+Lo Prado,2018-2,convenio_marco,209375311,735,407
+Lo Prado,2018-2,licitacion,2688578871,386,151
+Lo Prado,2018-2,trato_directo,72644344,48,33
+Lo Prado,2019-1,convenio_marco,325148629,773,436
+Lo Prado,2019-1,licitacion,265474751,280,115
+Lo Prado,2019-1,trato_directo,1048214081,166,62
+Lo Prado,2019-2,convenio_marco,296284495,690,397
+Lo Prado,2019-2,licitacion,3130644680,588,176
+Lo Prado,2019-2,trato_directo,847663124,248,116
+Lo Prado,2020-1,compra_agil,7637784,21,11
+Lo Prado,2020-1,convenio_marco,317756727,339,175
+Lo Prado,2020-1,licitacion,856279554,253,109
+Lo Prado,2020-1,trato_directo,1007100584,195,114
+Lo Prado,2020-2,compra_agil,28921854,584,64
+Lo Prado,2020-2,convenio_marco,255902977,384,222
+Lo Prado,2020-2,licitacion,6374307557,155,83
+Lo Prado,2020-2,trato_directo,842636929,147,97
+Lo Prado,2021-1,compra_agil,58459461,482,94
+Lo Prado,2021-1,convenio_marco,495682445,151,95
+Lo Prado,2021-1,licitacion,1714522054,133,66
+Lo Prado,2021-1,trato_directo,989438761,97,80
+Lo Prado,2021-2,compra_agil,108943961,1534,209
+Lo Prado,2021-2,convenio_marco,305030117,86,51
+Lo Prado,2021-2,licitacion,4492810118,182,88
+Lo Prado,2021-2,trato_directo,919770399,124,89
+Lo Prado,2022-1,compra_agil,106168687,1345,209
+Lo Prado,2022-1,convenio_marco,416340772,72,48
+Lo Prado,2022-1,licitacion,2561727882,279,129
+Lo Prado,2022-1,trato_directo,652757199,81,67
+Lo Prado,2022-2,convenio_marco,291794591,70,49
+Lo Prado,2022-2,licitacion,292186324,158,85
+Lo Prado,2022-2,trato_directo,657204729,140,96
+Lo Prado,2023-1,compra_agil,126902150,2529,285
+Lo Prado,2023-1,convenio_marco,444051414,75,58
+Lo Prado,2023-1,licitacion,6450805121,234,109
+Lo Prado,2023-1,trato_directo,1151474598,79,67
+Lo Prado,2023-2,compra_agil,158853967,3143,318
+Lo Prado,2023-2,convenio_marco,417906345,81,53
+Lo Prado,2023-2,licitacion,1745895782,191,114
+Lo Prado,2023-2,trato_directo,535290383,67,65
+Lo Prado,2024-1,compra_agil,195141680,2339,335
+Lo Prado,2024-1,convenio_marco,590545719,99,59
+Lo Prado,2024-1,licitacion,3734553433,253,157
+Lo Prado,2024-1,trato_directo,477316218,67,65
+Lo Prado,2024-2,compra_agil,212743002,2446,401
+Lo Prado,2024-2,convenio_marco,686683617,154,73
+Lo Prado,2024-2,licitacion,4390143981,654,163
+Lo Prado,2024-2,trato_directo,604078540,78,77
+Lo Prado,2025-1,compra_agil,409373845,2979,333
+Lo Prado,2025-1,convenio_marco,296147676,63,48
+Lo Prado,2025-1,licitacion,8365790148,203,87
+Lo Prado,2025-1,trato_directo,718341055,90,87
+Lo Prado,2025-2,compra_agil,451712506,3865,387
+Lo Prado,2025-2,convenio_marco,301013051,55,43
+Lo Prado,2025-2,licitacion,6277395240,143,99
+Lo Prado,2025-2,trato_directo,296972156,58,58
+Macul,2015-1,convenio_marco,96203041,519,170
+Macul,2015-1,licitacion,1128166689,1031,423
+Macul,2015-1,trato_directo,510713980,108,97
+Macul,2015-2,convenio_marco,165378714,784,277
+Macul,2015-2,licitacion,1094861837,927,444
+Macul,2015-2,trato_directo,720586409,113,107
+Macul,2016-1,convenio_marco,159267218,1506,443
+Macul,2016-1,licitacion,1345079168,581,363
+Macul,2016-1,trato_directo,668109560,102,98
+Macul,2016-2,convenio_marco,153966053,1057,392
+Macul,2016-2,licitacion,1557000332,426,324
+Macul,2016-2,trato_directo,931325283,134,129
+Macul,2017-1,convenio_marco,350818173,1510,552
+Macul,2017-1,licitacion,997562811,644,388
+Macul,2017-1,trato_directo,1134209569,95,87
+Macul,2017-2,convenio_marco,370454679,1874,659
+Macul,2017-2,licitacion,807152322,393,273
+Macul,2017-2,trato_directo,796891956,110,79
+Macul,2018-1,convenio_marco,596749949,2081,760
+Macul,2018-1,licitacion,928595818,325,195
+Macul,2018-1,trato_directo,534726050,67,64
+Macul,2018-2,convenio_marco,362154957,1033,510
+Macul,2018-2,licitacion,1101244512,231,179
+Macul,2018-2,trato_directo,421770861,98,53
+Macul,2019-1,convenio_marco,327823341,982,494
+Macul,2019-1,licitacion,1689062928,242,223
+Macul,2019-1,trato_directo,565746001,149,82
+Macul,2019-2,convenio_marco,284697356,958,417
+Macul,2019-2,licitacion,1368242747,183,170
+Macul,2019-2,trato_directo,462793639,270,89
+Macul,2020-1,compra_agil,570518,6,4
+Macul,2020-1,convenio_marco,322939933,470,204
+Macul,2020-1,licitacion,1201335307,154,147
+Macul,2020-1,trato_directo,814030512,168,120
+Macul,2020-2,compra_agil,31129663,290,79
+Macul,2020-2,convenio_marco,296529060,342,141
+Macul,2020-2,licitacion,984045469,123,93
+Macul,2020-2,trato_directo,763794028,63,52
+Macul,2021-1,compra_agil,63653304,427,173
+Macul,2021-1,convenio_marco,292308406,181,60
+Macul,2021-1,licitacion,1039179481,116,101
+Macul,2021-1,trato_directo,763185881,58,56
+Macul,2021-2,compra_agil,66207576,550,191
+Macul,2021-2,convenio_marco,200286783,83,31
+Macul,2021-2,licitacion,1244464043,125,102
+Macul,2021-2,trato_directo,822159058,61,60
+Macul,2022-1,compra_agil,138575510,1067,307
+Macul,2022-1,convenio_marco,92134982,58,22
+Macul,2022-1,licitacion,1378441091,137,125
+Macul,2022-1,trato_directo,795147886,64,57
+Macul,2022-2,convenio_marco,85339117,34,21
+Macul,2022-2,licitacion,1347877346,161,127
+Macul,2022-2,trato_directo,732893816,49,48
+Macul,2023-1,compra_agil,136494208,773,303
+Macul,2023-1,convenio_marco,76973751,38,22
+Macul,2023-1,licitacion,1464951581,219,162
+Macul,2023-1,trato_directo,1412726963,65,64
+Macul,2023-2,compra_agil,112111127,557,294
+Macul,2023-2,convenio_marco,70990096,31,17
+Macul,2023-2,licitacion,1269295632,170,140
+Macul,2023-2,trato_directo,640812467,46,45
+Macul,2024-1,compra_agil,148641999,619,317
+Macul,2024-1,convenio_marco,113044509,149,35
+Macul,2024-1,licitacion,2116277314,200,166
+Macul,2024-1,trato_directo,929734429,58,50
+Macul,2024-2,compra_agil,134174956,503,270
+Macul,2024-2,convenio_marco,124380434,100,27
+Macul,2024-2,licitacion,3384938449,227,202
+Macul,2024-2,trato_directo,448737441,32,31
+Macul,2025-1,compra_agil,267859126,453,255
+Macul,2025-1,convenio_marco,39096068,59,12
+Macul,2025-1,licitacion,3172410224,197,167
+Macul,2025-1,trato_directo,736059578,41,35
+Macul,2025-2,compra_agil,180632460,505,208
+Macul,2025-2,convenio_marco,48983385,25,11
+Macul,2025-2,licitacion,3657633386,200,161
+Macul,2025-2,trato_directo,483401424,25,24
+Maipú,2015-1,convenio_marco,2114585295,1472,490
+Maipú,2015-1,licitacion,772583095,841,421
+Maipú,2015-1,trato_directo,61060458,60,46
+Maipú,2015-2,convenio_marco,3690382122,2746,873
+Maipú,2015-2,licitacion,1010751112,1444,620
+Maipú,2015-2,trato_directo,210231519,69,56
+Maipú,2016-1,convenio_marco,3399785642,2229,810
+Maipú,2016-1,licitacion,1165779873,1344,469
+Maipú,2016-1,trato_directo,149033504,146,39
+Maipú,2016-2,convenio_marco,4014780366,2624,836
+Maipú,2016-2,licitacion,868134030,1276,460
+Maipú,2016-2,trato_directo,243360180,284,66
+Maipú,2017-1,convenio_marco,1921475599,2757,1011
+Maipú,2017-1,licitacion,786074592,957,342
+Maipú,2017-1,trato_directo,44386302,56,24
+Maipú,2017-2,convenio_marco,2621083081,3602,1521
+Maipú,2017-2,licitacion,8504964930,1072,468
+Maipú,2017-2,trato_directo,434768441,52,39
+Maipú,2018-1,convenio_marco,4114233037,2816,1159
+Maipú,2018-1,licitacion,3129206173,1276,478
+Maipú,2018-1,trato_directo,329367937,87,45
+Maipú,2018-2,convenio_marco,3423484576,3614,1307
+Maipú,2018-2,licitacion,1342018459,1983,570
+Maipú,2018-2,trato_directo,418524581,86,78
+Maipú,2019-1,convenio_marco,3874460940,2429,1106
+Maipú,2019-1,licitacion,5034970632,898,337
+Maipú,2019-1,trato_directo,554904912,66,63
+Maipú,2019-2,convenio_marco,3966048922,2277,946
+Maipú,2019-2,licitacion,4336097900,1946,454
+Maipú,2019-2,trato_directo,243576849,63,57
+Maipú,2020-1,compra_agil,21546028,89,33
+Maipú,2020-1,convenio_marco,4018095407,1475,581
+Maipú,2020-1,licitacion,1360720084,715,264
+Maipú,2020-1,trato_directo,1630195541,150,114
+Maipú,2020-2,compra_agil,85142206,624,141
+Maipú,2020-2,convenio_marco,2157423107,939,435
+Maipú,2020-2,licitacion,999712664,483,197
+Maipú,2020-2,trato_directo,319032121,74,51
+Maipú,2021-1,compra_agil,97427058,961,142
+Maipú,2021-1,convenio_marco,857509968,345,200
+Maipú,2021-1,licitacion,1757658302,605,156
+Maipú,2021-1,trato_directo,248338299,32,31
+Maipú,2021-2,compra_agil,75711606,673,154
+Maipú,2021-2,convenio_marco,1828964560,266,154
+Maipú,2021-2,licitacion,898808570,1298,198
+Maipú,2021-2,trato_directo,279893560,26,23
+Maipú,2022-1,compra_agil,89505943,428,153
+Maipú,2022-1,convenio_marco,739554446,74,56
+Maipú,2022-1,licitacion,6796176075,584,167
+Maipú,2022-1,trato_directo,2346284692,47,47
+Maipú,2022-2,convenio_marco,542779171,113,54
+Maipú,2022-2,licitacion,4819123097,881,292
+Maipú,2022-2,trato_directo,414116016,53,51
+Maipú,2023-1,compra_agil,159414879,508,251
+Maipú,2023-1,convenio_marco,653665247,81,42
+Maipú,2023-1,licitacion,3764584187,1077,339
+Maipú,2023-1,trato_directo,2551735398,83,81
+Maipú,2023-2,compra_agil,207431032,687,341
+Maipú,2023-2,convenio_marco,1007391869,227,74
+Maipú,2023-2,licitacion,19865054571,1392,512
+Maipú,2023-2,trato_directo,2880090057,95,95
+Maipú,2024-1,compra_agil,133893179,763,204
+Maipú,2024-1,convenio_marco,1219860385,168,73
+Maipú,2024-1,licitacion,87066412329,1288,490
+Maipú,2024-1,trato_directo,11535863889,96,96
+Maipú,2024-2,compra_agil,183580489,707,290
+Maipú,2024-2,convenio_marco,372106667,68,47
+Maipú,2024-2,licitacion,50312158477,954,479
+Maipú,2024-2,trato_directo,3904086961,91,91
+Maipú,2025-1,compra_agil,465349648,763,238
+Maipú,2025-1,convenio_marco,1583768941,201,57
+Maipú,2025-1,licitacion,52657589807,498,233
+Maipú,2025-1,trato_directo,2055590116,75,75
+Maipú,2025-2,compra_agil,1184803040,1938,458
+Maipú,2025-2,convenio_marco,611707790,240,57
+Maipú,2025-2,licitacion,60119109418,306,191
+Maipú,2025-2,trato_directo,842997718,56,56
+Pedro Aguirre Cerda,2015-1,convenio_marco,286676507,1509,473
+Pedro Aguirre Cerda,2015-1,licitacion,528444127,1482,547
+Pedro Aguirre Cerda,2015-1,trato_directo,25184492,31,25
+Pedro Aguirre Cerda,2015-2,convenio_marco,731895991,3903,1221
+Pedro Aguirre Cerda,2015-2,licitacion,690496673,1726,810
+Pedro Aguirre Cerda,2015-2,trato_directo,46824708,64,50
+Pedro Aguirre Cerda,2016-1,convenio_marco,656723643,2472,788
+Pedro Aguirre Cerda,2016-1,licitacion,1504581545,1048,527
+Pedro Aguirre Cerda,2016-1,trato_directo,175104957,62,36
+Pedro Aguirre Cerda,2016-2,convenio_marco,1099622362,4486,1377
+Pedro Aguirre Cerda,2016-2,licitacion,571362237,1310,696
+Pedro Aguirre Cerda,2016-2,trato_directo,82109282,571,86
+Pedro Aguirre Cerda,2017-1,convenio_marco,331831658,2128,619
+Pedro Aguirre Cerda,2017-1,licitacion,371516673,919,546
+Pedro Aguirre Cerda,2017-1,trato_directo,69088158,354,41
+Pedro Aguirre Cerda,2017-2,convenio_marco,684250287,4226,1128
+Pedro Aguirre Cerda,2017-2,licitacion,509763098,1708,699
+Pedro Aguirre Cerda,2017-2,trato_directo,100598655,344,75
+Pedro Aguirre Cerda,2018-1,convenio_marco,996006040,2639,958
+Pedro Aguirre Cerda,2018-1,licitacion,331282117,637,433
+Pedro Aguirre Cerda,2018-1,trato_directo,383709133,376,109
+Pedro Aguirre Cerda,2018-2,convenio_marco,1047463044,6690,2183
+Pedro Aguirre Cerda,2018-2,licitacion,401258894,885,513
+Pedro Aguirre Cerda,2018-2,trato_directo,134991551,560,169
+Pedro Aguirre Cerda,2019-1,convenio_marco,491590823,2274,883
+Pedro Aguirre Cerda,2019-1,licitacion,506539992,594,378
+Pedro Aguirre Cerda,2019-1,trato_directo,148812533,468,137
+Pedro Aguirre Cerda,2019-2,convenio_marco,1026837559,4651,1729
+Pedro Aguirre Cerda,2019-2,licitacion,1203949511,770,513
+Pedro Aguirre Cerda,2019-2,trato_directo,3567629570,858,268
+Pedro Aguirre Cerda,2020-1,compra_agil,8585420,20,16
+Pedro Aguirre Cerda,2020-1,convenio_marco,424544403,1309,433
+Pedro Aguirre Cerda,2020-1,licitacion,424844996,563,370
+Pedro Aguirre Cerda,2020-1,trato_directo,544890077,1297,353
+Pedro Aguirre Cerda,2020-2,compra_agil,60418670,394,108
+Pedro Aguirre Cerda,2020-2,convenio_marco,855324385,2242,806
+Pedro Aguirre Cerda,2020-2,licitacion,823700508,395,307
+Pedro Aguirre Cerda,2020-2,trato_directo,604538655,978,263
+Pedro Aguirre Cerda,2021-1,compra_agil,142416751,1032,247
+Pedro Aguirre Cerda,2021-1,convenio_marco,366535207,538,293
+Pedro Aguirre Cerda,2021-1,licitacion,900129731,484,339
+Pedro Aguirre Cerda,2021-1,trato_directo,198848910,897,177
+Pedro Aguirre Cerda,2021-2,compra_agil,505984822,3701,841
+Pedro Aguirre Cerda,2021-2,convenio_marco,822155005,819,319
+Pedro Aguirre Cerda,2021-2,licitacion,1481360001,503,376
+Pedro Aguirre Cerda,2021-2,trato_directo,174962238,448,103
+Pedro Aguirre Cerda,2022-1,compra_agil,672490568,4043,1068
+Pedro Aguirre Cerda,2022-1,convenio_marco,329898488,398,130
+Pedro Aguirre Cerda,2022-1,licitacion,1117250672,315,247
+Pedro Aguirre Cerda,2022-1,trato_directo,144857373,266,68
+Pedro Aguirre Cerda,2022-2,convenio_marco,681409734,414,159
+Pedro Aguirre Cerda,2022-2,licitacion,2462026036,573,327
+Pedro Aguirre Cerda,2022-2,trato_directo,158950281,136,45
+Pedro Aguirre Cerda,2023-1,compra_agil,1591736485,18458,1435
+Pedro Aguirre Cerda,2023-1,convenio_marco,425422548,407,104
+Pedro Aguirre Cerda,2023-1,licitacion,1555314414,407,314
+Pedro Aguirre Cerda,2023-1,trato_directo,120158344,202,49
+Pedro Aguirre Cerda,2023-2,compra_agil,2276491726,26535,1654
+Pedro Aguirre Cerda,2023-2,convenio_marco,496632915,737,101
+Pedro Aguirre Cerda,2023-2,licitacion,2446418303,563,464
+Pedro Aguirre Cerda,2023-2,trato_directo,111642231,121,45
+Pedro Aguirre Cerda,2024-1,compra_agil,1691801519,20391,1456
+Pedro Aguirre Cerda,2024-1,convenio_marco,535388694,583,107
+Pedro Aguirre Cerda,2024-1,licitacion,2666559285,528,456
+Pedro Aguirre Cerda,2024-1,trato_directo,248962764,209,74
+Pedro Aguirre Cerda,2024-2,compra_agil,2369158695,31900,1719
+Pedro Aguirre Cerda,2024-2,convenio_marco,406943042,371,87
+Pedro Aguirre Cerda,2024-2,licitacion,5841053783,577,498
+Pedro Aguirre Cerda,2024-2,trato_directo,288653677,161,63
+Pedro Aguirre Cerda,2025-1,compra_agil,1689828816,3395,1199
+Pedro Aguirre Cerda,2025-1,convenio_marco,603602065,335,65
+Pedro Aguirre Cerda,2025-1,licitacion,3111174160,257,219
+Pedro Aguirre Cerda,2025-1,trato_directo,173265053,135,39
+Pedro Aguirre Cerda,2025-2,compra_agil,1865575610,3508,1551
+Pedro Aguirre Cerda,2025-2,convenio_marco,308603265,254,52
+Pedro Aguirre Cerda,2025-2,licitacion,7836503975,276,223
+Pedro Aguirre Cerda,2025-2,trato_directo,353849319,105,36
+Peñalolén,2015-1,convenio_marco,425404714,662,279
+Peñalolén,2015-1,licitacion,583512085,483,365
+Peñalolén,2015-1,trato_directo,573992217,261,244
+Peñalolén,2015-2,convenio_marco,539434335,1083,399
+Peñalolén,2015-2,licitacion,1402540312,879,670
+Peñalolén,2015-2,trato_directo,191172178,117,98
+Peñalolén,2016-1,convenio_marco,633976464,882,365
+Peñalolén,2016-1,licitacion,1477344752,742,636
+Peñalolén,2016-1,trato_directo,331176914,142,112
+Peñalolén,2016-2,convenio_marco,861650031,1335,425
+Peñalolén,2016-2,licitacion,1047984818,788,641
+Peñalolén,2016-2,trato_directo,156566274,76,65
+Peñalolén,2017-1,convenio_marco,589855591,990,384
+Peñalolén,2017-1,licitacion,915832218,614,483
+Peñalolén,2017-1,trato_directo,196192323,94,87
+Peñalolén,2017-2,convenio_marco,793887883,1224,480
+Peñalolén,2017-2,licitacion,815733690,456,368
+Peñalolén,2017-2,trato_directo,277397235,221,133
+Peñalolén,2018-1,convenio_marco,590824637,1235,443
+Peñalolén,2018-1,licitacion,829989010,414,334
+Peñalolén,2018-1,trato_directo,285711066,150,119
+Peñalolén,2018-2,convenio_marco,829335554,1183,658
+Peñalolén,2018-2,licitacion,1308041114,393,335
+Peñalolén,2018-2,trato_directo,266092056,115,108
+Peñalolén,2019-1,convenio_marco,822626147,1243,564
+Peñalolén,2019-1,licitacion,1051780110,295,246
+Peñalolén,2019-1,trato_directo,254746173,97,86
+Peñalolén,2019-2,convenio_marco,809357596,1253,629
+Peñalolén,2019-2,licitacion,922269533,365,345
+Peñalolén,2019-2,trato_directo,323664413,123,108
+Peñalolén,2020-1,compra_agil,1100000,1,1
+Peñalolén,2020-1,convenio_marco,895542279,776,211
+Peñalolén,2020-1,licitacion,427653361,202,168
+Peñalolén,2020-1,trato_directo,2454214596,184,92
+Peñalolén,2020-2,compra_agil,41993561,83,57
+Peñalolén,2020-2,convenio_marco,557773829,313,156
+Peñalolén,2020-2,licitacion,562519604,94,81
+Peñalolén,2020-2,trato_directo,1122443835,327,145
+Peñalolén,2021-1,compra_agil,124533532,612,131
+Peñalolén,2021-1,convenio_marco,1092099088,353,152
+Peñalolén,2021-1,licitacion,1455667415,210,86
+Peñalolén,2021-1,trato_directo,424169715,170,118
+Peñalolén,2021-2,compra_agil,272646753,1402,352
+Peñalolén,2021-2,convenio_marco,632993967,171,63
+Peñalolén,2021-2,licitacion,794808092,458,117
+Peñalolén,2021-2,trato_directo,367132515,123,79
+Peñalolén,2022-1,compra_agil,237467043,1959,309
+Peñalolén,2022-1,convenio_marco,436115509,82,47
+Peñalolén,2022-1,licitacion,1529153827,390,128
+Peñalolén,2022-1,trato_directo,592177476,143,69
+Peñalolén,2022-2,convenio_marco,1028360637,325,112
+Peñalolén,2022-2,licitacion,2611945863,450,141
+Peñalolén,2022-2,trato_directo,1536165965,387,134
+Peñalolén,2023-1,compra_agil,826496403,7203,807
+Peñalolén,2023-1,convenio_marco,1134537904,198,78
+Peñalolén,2023-1,licitacion,16520357367,1191,269
+Peñalolén,2023-1,trato_directo,2204087319,445,214
+Peñalolén,2023-2,compra_agil,1127755648,10816,913
+Peñalolén,2023-2,convenio_marco,742981141,220,75
+Peñalolén,2023-2,licitacion,8879295552,1277,212
+Peñalolén,2023-2,trato_directo,3424483166,943,372
+Peñalolén,2024-1,compra_agil,761974235,8856,607
+Peñalolén,2024-1,convenio_marco,1119396635,248,68
+Peñalolén,2024-1,licitacion,39340201527,1332,315
+Peñalolén,2024-1,trato_directo,2630957453,1094,386
+Peñalolén,2024-2,compra_agil,834302653,8545,638
+Peñalolén,2024-2,convenio_marco,734265620,181,52
+Peñalolén,2024-2,licitacion,8372832028,610,219
+Peñalolén,2024-2,trato_directo,3197463806,701,373
+Peñalolén,2025-1,compra_agil,1203161666,4840,475
+Peñalolén,2025-1,convenio_marco,992903938,102,41
+Peñalolén,2025-1,licitacion,14703057802,744,249
+Peñalolén,2025-1,trato_directo,1441978609,258,161
+Peñalolén,2025-2,compra_agil,1063343233,4276,508
+Peñalolén,2025-2,convenio_marco,217524156,75,25
+Peñalolén,2025-2,licitacion,6473779365,694,144
+Peñalolén,2025-2,trato_directo,1289188757,283,152
+Providencia,2015-1,convenio_marco,1148672593,986,598
+Providencia,2015-1,licitacion,2064365224,491,284
+Providencia,2015-1,trato_directo,604329367,501,433
+Providencia,2015-2,convenio_marco,1103068077,1234,693
+Providencia,2015-2,licitacion,2788740986,621,345
+Providencia,2015-2,trato_directo,1600680625,610,497
+Providencia,2016-1,convenio_marco,1280459061,1289,661
+Providencia,2016-1,licitacion,2978112707,568,312
+Providencia,2016-1,trato_directo,668660638,619,539
+Providencia,2016-2,convenio_marco,1033202479,671,448
+Providencia,2016-2,licitacion,1342450406,425,230
+Providencia,2016-2,trato_directo,632992309,615,525
+Providencia,2017-1,convenio_marco,1133598349,610,357
+Providencia,2017-1,licitacion,1777135623,401,255
+Providencia,2017-1,trato_directo,636008484,533,441
+Providencia,2017-2,convenio_marco,1151386105,844,436
+Providencia,2017-2,licitacion,14010897928,536,249
+Providencia,2017-2,trato_directo,511936374,579,476
+Providencia,2018-1,convenio_marco,885283001,901,439
+Providencia,2018-1,licitacion,2700554492,648,324
+Providencia,2018-1,trato_directo,559212961,460,392
+Providencia,2018-2,convenio_marco,824424271,759,492
+Providencia,2018-2,licitacion,4701637001,677,376
+Providencia,2018-2,trato_directo,438875851,307,273
+Providencia,2019-1,convenio_marco,919278496,615,458
+Providencia,2019-1,licitacion,7379449867,760,416
+Providencia,2019-1,trato_directo,432183006,437,297
+Providencia,2019-2,convenio_marco,1071284349,898,522
+Providencia,2019-2,licitacion,5749652727,584,362
+Providencia,2019-2,trato_directo,585420434,359,309
+Providencia,2020-1,compra_agil,11305599,40,23
+Providencia,2020-1,convenio_marco,640699291,354,194
+Providencia,2020-1,licitacion,3502716565,261,235
+Providencia,2020-1,trato_directo,929044061,378,277
+Providencia,2020-2,compra_agil,104423760,607,217
+Providencia,2020-2,convenio_marco,482843229,234,190
+Providencia,2020-2,licitacion,2676558301,242,176
+Providencia,2020-2,trato_directo,882984924,206,173
+Providencia,2021-1,compra_agil,137659570,600,305
+Providencia,2021-1,convenio_marco,478136986,129,73
+Providencia,2021-1,licitacion,3531942460,293,215
+Providencia,2021-1,trato_directo,1022796766,170,136
+Providencia,2021-2,compra_agil,239293846,1128,392
+Providencia,2021-2,convenio_marco,166612964,62,53
+Providencia,2021-2,licitacion,7342858950,957,379
+Providencia,2021-2,trato_directo,1337310244,204,186
+Providencia,2022-1,compra_agil,256088607,1526,372
+Providencia,2022-1,convenio_marco,351026603,21,15
+Providencia,2022-1,licitacion,39889797749,737,362
+Providencia,2022-1,trato_directo,3485280594,232,204
+Providencia,2022-2,convenio_marco,204498564,49,29
+Providencia,2022-2,licitacion,15824388936,874,471
+Providencia,2022-2,trato_directo,835582616,269,241
+Providencia,2023-1,compra_agil,331086575,1987,376
+Providencia,2023-1,convenio_marco,503808212,28,22
+Providencia,2023-1,licitacion,9727805867,685,412
+Providencia,2023-1,trato_directo,798580556,250,223
+Providencia,2023-2,compra_agil,261837767,1445,349
+Providencia,2023-2,convenio_marco,392168077,41,28
+Providencia,2023-2,licitacion,8943138912,1077,468
+Providencia,2023-2,trato_directo,845482194,238,208
+Providencia,2024-1,compra_agil,280931389,1341,395
+Providencia,2024-1,convenio_marco,505008715,30,18
+Providencia,2024-1,licitacion,12239529893,916,446
+Providencia,2024-1,trato_directo,1242351824,343,278
+Providencia,2024-2,compra_agil,431776126,3021,424
+Providencia,2024-2,convenio_marco,166222284,28,20
+Providencia,2024-2,licitacion,10392229579,775,477
+Providencia,2024-2,trato_directo,662567798,218,207
+Providencia,2025-1,compra_agil,623200320,2613,465
+Providencia,2025-1,convenio_marco,530584987,28,20
+Providencia,2025-1,licitacion,17613681072,642,345
+Providencia,2025-1,trato_directo,1591117693,271,212
+Providencia,2025-2,compra_agil,1316467617,4901,500
+Providencia,2025-2,convenio_marco,194633667,24,19
+Providencia,2025-2,licitacion,46504926668,538,334
+Providencia,2025-2,trato_directo,239570828,117,109
+Pudahuel,2015-1,convenio_marco,686375825,677,344
+Pudahuel,2015-1,licitacion,820775464,599,193
+Pudahuel,2015-1,trato_directo,281445361,936,583
+Pudahuel,2015-2,convenio_marco,1347526415,1852,622
+Pudahuel,2015-2,licitacion,1921042371,537,255
+Pudahuel,2015-2,trato_directo,676270538,954,669
+Pudahuel,2016-1,convenio_marco,837113842,1094,453
+Pudahuel,2016-1,licitacion,1045400818,153,140
+Pudahuel,2016-1,trato_directo,307732620,1168,684
+Pudahuel,2016-2,convenio_marco,1536051917,1175,588
+Pudahuel,2016-2,licitacion,1076701320,99,94
+Pudahuel,2016-2,trato_directo,430908472,1409,697
+Pudahuel,2017-1,convenio_marco,1001590995,1492,536
+Pudahuel,2017-1,licitacion,507337856,71,64
+Pudahuel,2017-1,trato_directo,240472064,917,453
+Pudahuel,2017-2,convenio_marco,1612331914,1619,731
+Pudahuel,2017-2,licitacion,279031903,37,37
+Pudahuel,2017-2,trato_directo,348829717,741,249
+Pudahuel,2018-1,convenio_marco,1163003605,1541,528
+Pudahuel,2018-1,licitacion,286581177,33,32
+Pudahuel,2018-1,trato_directo,345429740,410,140
+Pudahuel,2018-2,convenio_marco,1702746730,1506,621
+Pudahuel,2018-2,licitacion,341434851,51,44
+Pudahuel,2018-2,trato_directo,206044165,317,82
+Pudahuel,2019-1,convenio_marco,1675094685,1513,437
+Pudahuel,2019-1,licitacion,359335523,28,26
+Pudahuel,2019-1,trato_directo,151610616,707,120
+Pudahuel,2019-2,convenio_marco,1652758510,1266,500
+Pudahuel,2019-2,licitacion,2815848473,130,48
+Pudahuel,2019-2,trato_directo,331088651,638,154
+Pudahuel,2020-1,convenio_marco,665852762,716,177
+Pudahuel,2020-1,licitacion,477149978,193,28
+Pudahuel,2020-1,trato_directo,894551973,151,68
+Pudahuel,2020-2,compra_agil,3135819,45,10
+Pudahuel,2020-2,convenio_marco,741095544,877,208
+Pudahuel,2020-2,licitacion,174382202,39,15
+Pudahuel,2020-2,trato_directo,2205777916,223,103
+Pudahuel,2021-1,compra_agil,180734591,5226,64
+Pudahuel,2021-1,convenio_marco,511021419,174,80
+Pudahuel,2021-1,licitacion,13267789762,277,55
+Pudahuel,2021-1,trato_directo,241536664,137,55
+Pudahuel,2021-2,compra_agil,400805730,11259,294
+Pudahuel,2021-2,convenio_marco,1178162842,102,42
+Pudahuel,2021-2,licitacion,1382876755,140,72
+Pudahuel,2021-2,trato_directo,475100806,121,61
+Pudahuel,2022-1,compra_agil,297806227,6845,206
+Pudahuel,2022-1,convenio_marco,388605193,64,42
+Pudahuel,2022-1,licitacion,770236956,71,56
+Pudahuel,2022-1,trato_directo,1147744470,119,53
+Pudahuel,2022-2,convenio_marco,506384907,85,39
+Pudahuel,2022-2,licitacion,1313107244,142,58
+Pudahuel,2022-2,trato_directo,674109051,42,38
+Pudahuel,2023-1,compra_agil,152247468,541,229
+Pudahuel,2023-1,convenio_marco,1456532649,111,40
+Pudahuel,2023-1,licitacion,2444280375,138,70
+Pudahuel,2023-1,trato_directo,1922570390,47,28
+Pudahuel,2023-2,compra_agil,240529488,1169,378
+Pudahuel,2023-2,convenio_marco,813093823,87,38
+Pudahuel,2023-2,licitacion,2298546863,190,100
+Pudahuel,2023-2,trato_directo,1499089858,127,110
+Pudahuel,2024-1,compra_agil,232955544,807,301
+Pudahuel,2024-1,convenio_marco,733717360,188,53
+Pudahuel,2024-1,licitacion,4952459057,167,97
+Pudahuel,2024-1,trato_directo,776823433,136,110
+Pudahuel,2024-2,compra_agil,438166163,1028,537
+Pudahuel,2024-2,convenio_marco,1578108075,103,46
+Pudahuel,2024-2,licitacion,7164111664,184,140
+Pudahuel,2024-2,trato_directo,421524064,82,72
+Pudahuel,2025-1,compra_agil,536762463,550,331
+Pudahuel,2025-1,convenio_marco,1281674979,81,45
+Pudahuel,2025-1,licitacion,7768196886,88,74
+Pudahuel,2025-1,trato_directo,182554244,28,26
+Pudahuel,2025-2,compra_agil,763896279,805,512
+Pudahuel,2025-2,convenio_marco,701755405,50,21
+Pudahuel,2025-2,licitacion,4939218019,117,96
+Pudahuel,2025-2,trato_directo,64459261,15,14
+Quilicura,2015-1,convenio_marco,1016070068,2597,555
+Quilicura,2015-1,licitacion,1900391060,1632,768
+Quilicura,2015-1,trato_directo,532805442,247,186
+Quilicura,2015-2,convenio_marco,1387242481,3358,724
+Quilicura,2015-2,licitacion,969239648,1422,777
+Quilicura,2015-2,trato_directo,265608607,324,210
+Quilicura,2016-1,convenio_marco,1673192775,4024,699
+Quilicura,2016-1,licitacion,693227005,882,493
+Quilicura,2016-1,trato_directo,447451012,387,152
+Quilicura,2016-2,convenio_marco,1972258108,3293,798
+Quilicura,2016-2,licitacion,398199761,668,392
+Quilicura,2016-2,trato_directo,407225726,452,200
+Quilicura,2017-1,convenio_marco,1442996275,3780,820
+Quilicura,2017-1,licitacion,683693553,842,472
+Quilicura,2017-1,trato_directo,314386803,228,159
+Quilicura,2017-2,convenio_marco,1623134620,3704,805
+Quilicura,2017-2,licitacion,582232996,848,614
+Quilicura,2017-2,trato_directo,249873067,138,123
+Quilicura,2018-1,convenio_marco,1161387059,2646,659
+Quilicura,2018-1,licitacion,877928068,1061,685
+Quilicura,2018-1,trato_directo,247366150,117,114
+Quilicura,2018-2,convenio_marco,1475830769,4339,1030
+Quilicura,2018-2,licitacion,923113786,901,610
+Quilicura,2018-2,trato_directo,257171794,229,222
+Quilicura,2019-1,convenio_marco,1028175977,3619,885
+Quilicura,2019-1,licitacion,722281241,862,580
+Quilicura,2019-1,trato_directo,299312229,212,165
+Quilicura,2019-2,convenio_marco,2070397533,5312,1404
+Quilicura,2019-2,licitacion,660144309,845,519
+Quilicura,2019-2,trato_directo,363741630,292,278
+Quilicura,2020-1,compra_agil,10474493,19,16
+Quilicura,2020-1,convenio_marco,843914007,2964,488
+Quilicura,2020-1,licitacion,608947989,653,284
+Quilicura,2020-1,trato_directo,1045913722,571,345
+Quilicura,2020-2,compra_agil,137397963,271,234
+Quilicura,2020-2,convenio_marco,1390860162,2282,622
+Quilicura,2020-2,licitacion,1077578167,1241,397
+Quilicura,2020-2,trato_directo,922605619,469,351
+Quilicura,2021-1,compra_agil,214474235,689,308
+Quilicura,2021-1,convenio_marco,621850878,316,142
+Quilicura,2021-1,licitacion,816883652,608,205
+Quilicura,2021-1,trato_directo,905434416,497,347
+Quilicura,2021-2,compra_agil,546191689,1656,844
+Quilicura,2021-2,convenio_marco,611713648,666,179
+Quilicura,2021-2,licitacion,1760966886,3467,452
+Quilicura,2021-2,trato_directo,224659301,114,87
+Quilicura,2022-1,compra_agil,549549930,3000,737
+Quilicura,2022-1,convenio_marco,676585117,232,93
+Quilicura,2022-1,licitacion,15152210214,539,120
+Quilicura,2022-1,trato_directo,201178437,34,31
+Quilicura,2022-2,convenio_marco,1387568572,352,139
+Quilicura,2022-2,licitacion,1828783300,539,249
+Quilicura,2022-2,trato_directo,1159888560,107,107
+Quilicura,2023-1,compra_agil,1127276184,1579,1464
+Quilicura,2023-1,convenio_marco,1087893183,221,85
+Quilicura,2023-1,licitacion,6032812972,839,273
+Quilicura,2023-1,trato_directo,1039152854,57,52
+Quilicura,2023-2,compra_agil,907431258,1339,1167
+Quilicura,2023-2,convenio_marco,1023315376,318,86
+Quilicura,2023-2,licitacion,3382805924,1059,401
+Quilicura,2023-2,trato_directo,549828177,64,61
+Quilicura,2024-1,compra_agil,778067003,1004,929
+Quilicura,2024-1,convenio_marco,1631155979,368,109
+Quilicura,2024-1,licitacion,8047310664,847,289
+Quilicura,2024-1,trato_directo,890067894,108,102
+Quilicura,2024-2,compra_agil,1163612006,1400,1375
+Quilicura,2024-2,convenio_marco,1287385385,467,107
+Quilicura,2024-2,licitacion,6390600356,788,327
+Quilicura,2024-2,trato_directo,997344954,80,79
+Quilicura,2025-1,compra_agil,1159995350,568,557
+Quilicura,2025-1,convenio_marco,1237286460,229,65
+Quilicura,2025-1,licitacion,8015701531,569,190
+Quilicura,2025-1,trato_directo,217466732,31,31
+Quilicura,2025-2,compra_agil,1013280617,492,492
+Quilicura,2025-2,convenio_marco,769215756,298,60
+Quilicura,2025-2,licitacion,11630743286,563,179
+Quilicura,2025-2,trato_directo,239710205,21,16
+Quinta Normal,2015-1,convenio_marco,68297960,411,169
+Quinta Normal,2015-1,licitacion,219942904,1019,230
+Quinta Normal,2015-1,trato_directo,35860525,280,132
+Quinta Normal,2015-2,convenio_marco,148078776,281,196
+Quinta Normal,2015-2,licitacion,181422829,1021,214
+Quinta Normal,2015-2,trato_directo,37766126,326,149
+Quinta Normal,2016-1,convenio_marco,174078794,911,333
+Quinta Normal,2016-1,licitacion,229543246,802,200
+Quinta Normal,2016-1,trato_directo,37736989,147,84
+Quinta Normal,2016-2,convenio_marco,303366302,1351,401
+Quinta Normal,2016-2,licitacion,531213297,233,128
+Quinta Normal,2016-2,trato_directo,32066209,241,99
+Quinta Normal,2017-1,convenio_marco,314122257,1643,431
+Quinta Normal,2017-1,licitacion,318739664,301,64
+Quinta Normal,2017-1,trato_directo,21068349,160,71
+Quinta Normal,2017-2,convenio_marco,254714211,1829,446
+Quinta Normal,2017-2,licitacion,2826268492,303,82
+Quinta Normal,2017-2,trato_directo,82106602,308,123
+Quinta Normal,2018-1,convenio_marco,212546971,1343,383
+Quinta Normal,2018-1,licitacion,1630132834,210,58
+Quinta Normal,2018-1,trato_directo,31659802,282,117
+Quinta Normal,2018-2,convenio_marco,263260128,1473,330
+Quinta Normal,2018-2,licitacion,633243530,280,70
+Quinta Normal,2018-2,trato_directo,75491598,397,155
+Quinta Normal,2019-1,convenio_marco,408163769,933,282
+Quinta Normal,2019-1,licitacion,2286716032,216,62
+Quinta Normal,2019-1,trato_directo,49003380,314,156
+Quinta Normal,2019-2,convenio_marco,223181347,1060,300
+Quinta Normal,2019-2,licitacion,287013411,239,61
+Quinta Normal,2019-2,trato_directo,252188011,344,181
+Quinta Normal,2020-1,compra_agil,3811224,5,5
+Quinta Normal,2020-1,convenio_marco,327017394,365,121
+Quinta Normal,2020-1,licitacion,1661868273,118,32
+Quinta Normal,2020-1,trato_directo,714565901,226,153
+Quinta Normal,2020-2,compra_agil,48521957,488,50
+Quinta Normal,2020-2,convenio_marco,371310319,643,201
+Quinta Normal,2020-2,licitacion,535104605,52,36
+Quinta Normal,2020-2,trato_directo,805609293,323,177
+Quinta Normal,2021-1,compra_agil,73084021,657,92
+Quinta Normal,2021-1,convenio_marco,184744994,223,57
+Quinta Normal,2021-1,licitacion,606313531,140,43
+Quinta Normal,2021-1,trato_directo,96086407,271,176
+Quinta Normal,2021-2,compra_agil,177893052,1699,202
+Quinta Normal,2021-2,convenio_marco,330615288,387,70
+Quinta Normal,2021-2,licitacion,1956609316,60,33
+Quinta Normal,2021-2,trato_directo,533834681,493,223
+Quinta Normal,2022-1,compra_agil,101100803,738,144
+Quinta Normal,2022-1,convenio_marco,120926364,84,26
+Quinta Normal,2022-1,licitacion,990986061,142,51
+Quinta Normal,2022-1,trato_directo,96737244,310,147
+Quinta Normal,2022-2,convenio_marco,268378282,174,43
+Quinta Normal,2022-2,licitacion,1208267205,228,77
+Quinta Normal,2022-2,trato_directo,154854624,592,206
+Quinta Normal,2023-1,compra_agil,237074812,3004,216
+Quinta Normal,2023-1,convenio_marco,170908609,57,28
+Quinta Normal,2023-1,licitacion,821351759,106,55
+Quinta Normal,2023-1,trato_directo,148573116,366,176
+Quinta Normal,2023-2,compra_agil,293090459,3754,264
+Quinta Normal,2023-2,convenio_marco,310141396,155,44
+Quinta Normal,2023-2,licitacion,1810878071,198,91
+Quinta Normal,2023-2,trato_directo,466980660,664,374
+Quinta Normal,2024-1,compra_agil,288086452,2280,259
+Quinta Normal,2024-1,convenio_marco,282558243,113,33
+Quinta Normal,2024-1,licitacion,2360656123,147,106
+Quinta Normal,2024-1,trato_directo,480165276,562,340
+Quinta Normal,2024-2,compra_agil,354111772,3324,290
+Quinta Normal,2024-2,convenio_marco,361516262,199,42
+Quinta Normal,2024-2,licitacion,4970268140,179,139
+Quinta Normal,2024-2,trato_directo,533910902,548,318
+Quinta Normal,2025-1,compra_agil,801112918,2309,602
+Quinta Normal,2025-1,convenio_marco,368994429,206,39
+Quinta Normal,2025-1,licitacion,4076089053,59,59
+Quinta Normal,2025-1,trato_directo,258641667,137,73
+Quinta Normal,2025-2,compra_agil,1574663042,14883,496
+Quinta Normal,2025-2,convenio_marco,297159594,101,26
+Quinta Normal,2025-2,licitacion,5217697704,59,58
+Quinta Normal,2025-2,trato_directo,151978543,440,274
+Recoleta,2015-1,convenio_marco,1002499901,2978,912
+Recoleta,2015-1,licitacion,510372381,1107,468
+Recoleta,2015-1,trato_directo,698345868,216,142
+Recoleta,2015-2,convenio_marco,591362251,2817,783
+Recoleta,2015-2,licitacion,394244701,811,417
+Recoleta,2015-2,trato_directo,273699572,277,178
+Recoleta,2016-1,convenio_marco,609322860,2750,752
+Recoleta,2016-1,licitacion,470122466,725,347
+Recoleta,2016-1,trato_directo,1260838248,575,176
+Recoleta,2016-2,convenio_marco,641787669,2399,776
+Recoleta,2016-2,licitacion,519178210,673,349
+Recoleta,2016-2,trato_directo,589276591,419,145
+Recoleta,2017-1,convenio_marco,462085224,1987,727
+Recoleta,2017-1,licitacion,453202430,726,288
+Recoleta,2017-1,trato_directo,828424584,475,141
+Recoleta,2017-2,convenio_marco,1140166755,6390,1304
+Recoleta,2017-2,licitacion,287944246,444,234
+Recoleta,2017-2,trato_directo,297265721,522,169
+Recoleta,2018-1,convenio_marco,1595661944,5753,1356
+Recoleta,2018-1,licitacion,465825718,416,232
+Recoleta,2018-1,trato_directo,413870026,644,175
+Recoleta,2018-2,convenio_marco,1664085131,4564,1591
+Recoleta,2018-2,licitacion,4569948410,435,213
+Recoleta,2018-2,trato_directo,585398169,915,245
+Recoleta,2019-1,convenio_marco,890267251,4109,1048
+Recoleta,2019-1,licitacion,1204201962,488,224
+Recoleta,2019-1,trato_directo,458807446,962,205
+Recoleta,2019-2,convenio_marco,750378298,3368,1075
+Recoleta,2019-2,licitacion,424226291,836,305
+Recoleta,2019-2,trato_directo,638414546,457,154
+Recoleta,2020-1,compra_agil,19512996,53,30
+Recoleta,2020-1,convenio_marco,347955310,1435,384
+Recoleta,2020-1,licitacion,643843777,480,210
+Recoleta,2020-1,trato_directo,1448783532,658,244
+Recoleta,2020-2,compra_agil,243822009,1285,417
+Recoleta,2020-2,convenio_marco,1080063343,896,435
+Recoleta,2020-2,licitacion,2390781277,269,148
+Recoleta,2020-2,trato_directo,776000406,897,269
+Recoleta,2021-1,compra_agil,260641784,1729,495
+Recoleta,2021-1,convenio_marco,282488148,345,158
+Recoleta,2021-1,licitacion,2030232494,163,115
+Recoleta,2021-1,trato_directo,320557982,1158,238
+Recoleta,2021-2,compra_agil,632256697,4740,990
+Recoleta,2021-2,convenio_marco,604552677,387,187
+Recoleta,2021-2,licitacion,696879397,280,142
+Recoleta,2021-2,trato_directo,493759365,597,174
+Recoleta,2022-1,compra_agil,887510644,8772,1004
+Recoleta,2022-1,convenio_marco,509481501,388,117
+Recoleta,2022-1,licitacion,915462630,296,137
+Recoleta,2022-1,trato_directo,691975758,87,66
+Recoleta,2022-2,convenio_marco,848348645,402,163
+Recoleta,2022-2,licitacion,3579338413,650,248
+Recoleta,2022-2,trato_directo,1450408598,155,114
+Recoleta,2023-1,compra_agil,910998194,2703,1267
+Recoleta,2023-1,convenio_marco,494529075,317,97
+Recoleta,2023-1,licitacion,5684045601,659,297
+Recoleta,2023-1,trato_directo,509185835,104,72
+Recoleta,2023-2,compra_agil,1110212812,5206,1453
+Recoleta,2023-2,convenio_marco,476329569,382,88
+Recoleta,2023-2,licitacion,5086828768,956,418
+Recoleta,2023-2,trato_directo,1131370147,238,159
+Recoleta,2024-1,compra_agil,852566506,5627,973
+Recoleta,2024-1,convenio_marco,655906395,406,84
+Recoleta,2024-1,licitacion,7593082426,1131,436
+Recoleta,2024-1,trato_directo,664394514,167,101
+Recoleta,2024-2,compra_agil,742934609,3499,923
+Recoleta,2024-2,convenio_marco,474613990,426,82
+Recoleta,2024-2,licitacion,7144466940,971,445
+Recoleta,2024-2,trato_directo,1678847395,73,57
+Recoleta,2025-1,compra_agil,1379168215,3460,716
+Recoleta,2025-1,convenio_marco,354157142,414,70
+Recoleta,2025-1,licitacion,10055237218,513,254
+Recoleta,2025-1,trato_directo,860086647,33,31
+Recoleta,2025-2,compra_agil,1674364237,8592,930
+Recoleta,2025-2,convenio_marco,386081691,291,57
+Recoleta,2025-2,licitacion,38351934903,476,230
+Recoleta,2025-2,trato_directo,951683481,15,15
+Renca,2015-1,convenio_marco,174746109,348,117
+Renca,2015-1,licitacion,4200681251,326,235
+Renca,2015-1,trato_directo,296877580,27,27
+Renca,2015-2,convenio_marco,197676459,703,158
+Renca,2015-2,licitacion,2306813078,246,184
+Renca,2015-2,trato_directo,129885826,20,20
+Renca,2016-1,convenio_marco,187385104,526,149
+Renca,2016-1,licitacion,3253818529,227,178
+Renca,2016-1,trato_directo,160219370,16,16
+Renca,2016-2,convenio_marco,264591394,900,175
+Renca,2016-2,licitacion,2350235155,282,234
+Renca,2016-2,trato_directo,225718194,23,23
+Renca,2017-1,convenio_marco,470034928,838,264
+Renca,2017-1,licitacion,3042970502,168,152
+Renca,2017-1,trato_directo,583012402,32,32
+Renca,2017-2,convenio_marco,794307571,1269,499
+Renca,2017-2,licitacion,5901518927,312,243
+Renca,2017-2,trato_directo,262779289,40,39
+Renca,2018-1,convenio_marco,656678150,1313,599
+Renca,2018-1,licitacion,6414292825,196,154
+Renca,2018-1,trato_directo,934927815,37,36
+Renca,2018-2,convenio_marco,823534361,1515,760
+Renca,2018-2,licitacion,1893637668,253,203
+Renca,2018-2,trato_directo,99831170,50,42
+Renca,2019-1,convenio_marco,653038643,1436,619
+Renca,2019-1,licitacion,7986729372,160,124
+Renca,2019-1,trato_directo,300605938,52,51
+Renca,2019-2,convenio_marco,1163266641,1651,829
+Renca,2019-2,licitacion,4083072279,196,171
+Renca,2019-2,trato_directo,157110133,82,80
+Renca,2020-1,compra_agil,744236,2,1
+Renca,2020-1,convenio_marco,569352376,657,332
+Renca,2020-1,licitacion,7134229238,123,109
+Renca,2020-1,trato_directo,453369464,85,79
+Renca,2020-2,compra_agil,7294485,34,14
+Renca,2020-2,convenio_marco,584781959,803,333
+Renca,2020-2,licitacion,1874291760,97,79
+Renca,2020-2,trato_directo,1359778110,69,65
+Renca,2021-1,compra_agil,45051996,158,59
+Renca,2021-1,convenio_marco,581838197,210,144
+Renca,2021-1,licitacion,6858327457,142,125
+Renca,2021-1,trato_directo,519049540,76,57
+Renca,2021-2,compra_agil,128309231,779,167
+Renca,2021-2,convenio_marco,562179082,129,59
+Renca,2021-2,licitacion,1879989638,111,110
+Renca,2021-2,trato_directo,161319910,63,42
+Renca,2022-1,compra_agil,134279727,1028,139
+Renca,2022-1,convenio_marco,215396048,82,37
+Renca,2022-1,licitacion,6959532138,120,116
+Renca,2022-1,trato_directo,236798813,67,48
+Renca,2022-2,convenio_marco,382506413,139,54
+Renca,2022-2,licitacion,3892906548,172,123
+Renca,2022-2,trato_directo,1539723575,136,59
+Renca,2023-1,compra_agil,248207419,5211,146
+Renca,2023-1,convenio_marco,311861044,172,57
+Renca,2023-1,licitacion,17241730270,208,145
+Renca,2023-1,trato_directo,487110575,172,60
+Renca,2023-2,compra_agil,228980526,4845,174
+Renca,2023-2,convenio_marco,313386711,115,44
+Renca,2023-2,licitacion,11686728237,322,156
+Renca,2023-2,trato_directo,882684436,83,38
+Renca,2024-1,compra_agil,284961794,2885,223
+Renca,2024-1,convenio_marco,461110338,185,70
+Renca,2024-1,licitacion,6841074682,365,187
+Renca,2024-1,trato_directo,607550388,104,57
+Renca,2024-2,compra_agil,287037428,2826,248
+Renca,2024-2,convenio_marco,505745233,144,65
+Renca,2024-2,licitacion,14894209334,705,208
+Renca,2024-2,trato_directo,878893390,77,56
+Renca,2025-1,compra_agil,1006668594,5630,327
+Renca,2025-1,convenio_marco,252362628,132,40
+Renca,2025-1,licitacion,9286925419,205,117
+Renca,2025-1,trato_directo,364267980,16,16
+Renca,2025-2,compra_agil,903776746,5092,334
+Renca,2025-2,convenio_marco,383986963,158,28
+Renca,2025-2,licitacion,5930016331,457,123
+Renca,2025-2,trato_directo,32005628,5,5
+San Joaquín,2015-1,convenio_marco,128669732,1049,210
+San Joaquín,2015-1,licitacion,1491661197,772,88
+San Joaquín,2015-1,trato_directo,76616511,232,83
+San Joaquín,2015-2,convenio_marco,249601024,870,273
+San Joaquín,2015-2,licitacion,1186749700,321,84
+San Joaquín,2015-2,trato_directo,108640334,160,81
+San Joaquín,2016-1,convenio_marco,487803184,1123,410
+San Joaquín,2016-1,licitacion,240721313,384,57
+San Joaquín,2016-1,trato_directo,326125635,210,78
+San Joaquín,2016-2,convenio_marco,361840480,932,358
+San Joaquín,2016-2,licitacion,3082767169,317,103
+San Joaquín,2016-2,trato_directo,186683702,144,84
+San Joaquín,2017-1,convenio_marco,240483287,880,280
+San Joaquín,2017-1,licitacion,731103955,154,50
+San Joaquín,2017-1,trato_directo,63661046,61,50
+San Joaquín,2017-2,convenio_marco,238816479,985,407
+San Joaquín,2017-2,licitacion,935014228,301,56
+San Joaquín,2017-2,trato_directo,17480567,95,52
+San Joaquín,2018-1,convenio_marco,247898802,952,391
+San Joaquín,2018-1,licitacion,672981734,173,56
+San Joaquín,2018-1,trato_directo,28735209,73,36
+San Joaquín,2018-2,convenio_marco,452098149,1151,471
+San Joaquín,2018-2,licitacion,1036625016,400,84
+San Joaquín,2018-2,trato_directo,40731424,116,61
+San Joaquín,2019-1,convenio_marco,530594874,888,413
+San Joaquín,2019-1,licitacion,2526107973,121,49
+San Joaquín,2019-1,trato_directo,132893619,169,63
+San Joaquín,2019-2,convenio_marco,490996453,747,396
+San Joaquín,2019-2,licitacion,901352548,472,109
+San Joaquín,2019-2,trato_directo,59249180,295,60
+San Joaquín,2020-1,convenio_marco,541387294,458,240
+San Joaquín,2020-1,licitacion,299342528,47,29
+San Joaquín,2020-1,trato_directo,334195355,171,104
+San Joaquín,2020-2,convenio_marco,588610938,561,220
+San Joaquín,2020-2,licitacion,1119286875,74,29
+San Joaquín,2020-2,trato_directo,785759963,359,133
+San Joaquín,2021-1,compra_agil,40781611,805,37
+San Joaquín,2021-1,convenio_marco,431347418,233,114
+San Joaquín,2021-1,licitacion,1190647542,236,45
+San Joaquín,2021-1,trato_directo,174133708,251,114
+San Joaquín,2021-2,compra_agil,343201943,3949,378
+San Joaquín,2021-2,convenio_marco,541378245,167,64
+San Joaquín,2021-2,licitacion,901255413,63,43
+San Joaquín,2021-2,trato_directo,90343043,32,28
+San Joaquín,2022-1,compra_agil,311084965,3281,329
+San Joaquín,2022-1,convenio_marco,116171120,42,26
+San Joaquín,2022-1,licitacion,1493030288,289,59
+San Joaquín,2022-1,trato_directo,291312265,41,37
+San Joaquín,2022-2,convenio_marco,140963291,104,29
+San Joaquín,2022-2,licitacion,676774336,206,76
+San Joaquín,2022-2,trato_directo,151650267,40,34
+San Joaquín,2023-1,compra_agil,387930519,3925,363
+San Joaquín,2023-1,convenio_marco,400911224,139,43
+San Joaquín,2023-1,licitacion,982988846,420,76
+San Joaquín,2023-1,trato_directo,104922299,38,33
+San Joaquín,2023-2,compra_agil,432814002,3443,417
+San Joaquín,2023-2,convenio_marco,168707157,121,35
+San Joaquín,2023-2,licitacion,2022088836,376,109
+San Joaquín,2023-2,trato_directo,2178633386,78,56
+San Joaquín,2024-1,compra_agil,484318617,4186,380
+San Joaquín,2024-1,convenio_marco,457935008,146,36
+San Joaquín,2024-1,licitacion,5865480177,574,129
+San Joaquín,2024-1,trato_directo,3654682879,59,51
+San Joaquín,2024-2,compra_agil,309016797,2273,297
+San Joaquín,2024-2,convenio_marco,158375083,125,26
+San Joaquín,2024-2,licitacion,2400742673,223,106
+San Joaquín,2024-2,trato_directo,313900786,51,36
+San Joaquín,2025-1,compra_agil,1061030208,5974,282
+San Joaquín,2025-1,convenio_marco,493572735,134,44
+San Joaquín,2025-1,licitacion,1670752730,150,47
+San Joaquín,2025-1,trato_directo,1246961714,14,14
+San Joaquín,2025-2,compra_agil,403320101,4047,256
+San Joaquín,2025-2,convenio_marco,53189628,33,13
+San Joaquín,2025-2,licitacion,401223563,47,25
+San Joaquín,2025-2,trato_directo,22191623,7,7
+San Miguel,2015-1,convenio_marco,76139602,448,139
+San Miguel,2015-1,licitacion,518261553,1060,183
+San Miguel,2015-1,trato_directo,68954734,448,117
+San Miguel,2015-2,convenio_marco,104085193,480,197
+San Miguel,2015-2,licitacion,286832333,646,192
+San Miguel,2015-2,trato_directo,50265255,1015,166
+San Miguel,2016-1,convenio_marco,180572832,673,238
+San Miguel,2016-1,licitacion,193070120,942,207
+San Miguel,2016-1,trato_directo,252483231,992,177
+San Miguel,2016-2,convenio_marco,224713111,664,223
+San Miguel,2016-2,licitacion,782457756,691,207
+San Miguel,2016-2,trato_directo,460096674,771,160
+San Miguel,2017-1,convenio_marco,193869496,663,255
+San Miguel,2017-1,licitacion,444506109,828,168
+San Miguel,2017-1,trato_directo,207052098,646,135
+San Miguel,2017-2,convenio_marco,508709445,531,210
+San Miguel,2017-2,licitacion,475420264,1311,212
+San Miguel,2017-2,trato_directo,148569899,1105,197
+San Miguel,2018-1,convenio_marco,214318824,582,211
+San Miguel,2018-1,licitacion,925740672,549,182
+San Miguel,2018-1,trato_directo,41803465,527,116
+San Miguel,2018-2,convenio_marco,309085282,590,274
+San Miguel,2018-2,licitacion,453551827,684,189
+San Miguel,2018-2,trato_directo,91274201,890,192
+San Miguel,2019-1,convenio_marco,280162576,528,253
+San Miguel,2019-1,licitacion,4088460772,621,202
+San Miguel,2019-1,trato_directo,85955721,909,174
+San Miguel,2019-2,convenio_marco,270495721,510,285
+San Miguel,2019-2,licitacion,750625191,752,204
+San Miguel,2019-2,trato_directo,109075396,1117,193
+San Miguel,2020-1,compra_agil,1502877,10,5
+San Miguel,2020-1,convenio_marco,274055679,214,101
+San Miguel,2020-1,licitacion,4465550503,205,102
+San Miguel,2020-1,trato_directo,170121867,465,95
+San Miguel,2020-2,compra_agil,112718807,1436,142
+San Miguel,2020-2,convenio_marco,535440666,471,151
+San Miguel,2020-2,licitacion,350003321,270,93
+San Miguel,2020-2,trato_directo,104355418,199,45
+San Miguel,2021-1,compra_agil,123971217,943,174
+San Miguel,2021-1,convenio_marco,63723751,32,25
+San Miguel,2021-1,licitacion,624582475,174,86
+San Miguel,2021-1,trato_directo,98130903,65,24
+San Miguel,2021-2,compra_agil,189488809,1336,259
+San Miguel,2021-2,convenio_marco,133003086,52,26
+San Miguel,2021-2,licitacion,906530291,199,75
+San Miguel,2021-2,trato_directo,68776694,47,20
+San Miguel,2022-1,compra_agil,102061422,758,169
+San Miguel,2022-1,convenio_marco,15030386,8,6
+San Miguel,2022-1,licitacion,1026287909,69,38
+San Miguel,2022-1,trato_directo,55137820,20,9
+San Miguel,2022-2,convenio_marco,142449359,8,6
+San Miguel,2022-2,licitacion,2616895803,198,70
+San Miguel,2022-2,trato_directo,78272132,22,14
+San Miguel,2023-1,compra_agil,757901860,23198,333
+San Miguel,2023-1,convenio_marco,98476234,19,11
+San Miguel,2023-1,licitacion,1704640871,178,66
+San Miguel,2023-1,trato_directo,1070649981,24,19
+San Miguel,2023-2,compra_agil,865009503,23766,360
+San Miguel,2023-2,convenio_marco,164664058,27,15
+San Miguel,2023-2,licitacion,6986479775,263,78
+San Miguel,2023-2,trato_directo,218835513,17,15
+San Miguel,2024-1,compra_agil,856282448,25611,323
+San Miguel,2024-1,convenio_marco,39552196,15,7
+San Miguel,2024-1,licitacion,1626954658,132,63
+San Miguel,2024-1,trato_directo,15780372,9,8
+San Miguel,2024-2,compra_agil,1144513800,28136,391
+San Miguel,2024-2,convenio_marco,65698130,39,12
+San Miguel,2024-2,licitacion,2436116328,258,83
+San Miguel,2024-2,trato_directo,85089495,20,18
+San Miguel,2025-1,compra_agil,1158515052,24615,265
+San Miguel,2025-1,convenio_marco,116807027,4,4
+San Miguel,2025-1,licitacion,10378204569,35,27
+San Miguel,2025-1,trato_directo,87462128,18,18
+San Miguel,2025-2,compra_agil,2065458083,39870,301
+San Miguel,2025-2,convenio_marco,74923411,27,6
+San Miguel,2025-2,licitacion,2351261859,33,33
+San Miguel,2025-2,trato_directo,15961663,42,22
+San Ramón,2015-1,convenio_marco,224918972,1202,177
+San Ramón,2015-1,licitacion,572168466,2522,318
+San Ramón,2015-1,trato_directo,107612123,673,283
+San Ramón,2015-2,convenio_marco,241049973,1398,283
+San Ramón,2015-2,licitacion,442587624,1902,353
+San Ramón,2015-2,trato_directo,247303338,765,311
+San Ramón,2016-1,convenio_marco,286309125,1285,219
+San Ramón,2016-1,licitacion,366107864,1336,203
+San Ramón,2016-1,trato_directo,215577176,924,251
+San Ramón,2016-2,convenio_marco,285569957,2604,330
+San Ramón,2016-2,licitacion,353474242,1115,216
+San Ramón,2016-2,trato_directo,215536544,687,212
+San Ramón,2017-1,convenio_marco,319395277,944,284
+San Ramón,2017-1,licitacion,338756116,1138,168
+San Ramón,2017-1,trato_directo,164862319,657,199
+San Ramón,2017-2,convenio_marco,331399510,2099,359
+San Ramón,2017-2,licitacion,525887017,654,164
+San Ramón,2017-2,trato_directo,116813174,344,158
+San Ramón,2018-1,convenio_marco,684099887,1889,309
+San Ramón,2018-1,licitacion,201756093,785,123
+San Ramón,2018-1,trato_directo,43974468,236,104
+San Ramón,2018-2,convenio_marco,641196740,2373,508
+San Ramón,2018-2,licitacion,133495231,378,84
+San Ramón,2018-2,trato_directo,78669254,305,160
+San Ramón,2019-1,convenio_marco,526411730,983,344
+San Ramón,2019-1,licitacion,159040322,605,128
+San Ramón,2019-1,trato_directo,59364918,175,81
+San Ramón,2019-2,convenio_marco,627204107,1448,379
+San Ramón,2019-2,licitacion,130066938,379,119
+San Ramón,2019-2,trato_directo,100876591,402,120
+San Ramón,2020-1,convenio_marco,526434698,621,152
+San Ramón,2020-1,licitacion,134046993,276,61
+San Ramón,2020-1,trato_directo,458991350,356,156
+San Ramón,2020-2,convenio_marco,520863482,659,171
+San Ramón,2020-2,licitacion,71267887,212,28
+San Ramón,2020-2,trato_directo,619756936,551,176
+San Ramón,2021-1,convenio_marco,498442697,189,86
+San Ramón,2021-1,licitacion,1792978232,180,29
+San Ramón,2021-1,trato_directo,155418468,367,107
+San Ramón,2021-2,compra_agil,175696819,876,250
+San Ramón,2021-2,convenio_marco,252988050,112,65
+San Ramón,2021-2,licitacion,61812369,35,12
+San Ramón,2021-2,trato_directo,47358313,61,15
+San Ramón,2022-1,compra_agil,339184565,1298,525
+San Ramón,2022-1,convenio_marco,218553490,99,34
+San Ramón,2022-1,licitacion,272254309,47,21
+San Ramón,2022-1,trato_directo,125498695,12,11
+San Ramón,2022-2,convenio_marco,248917407,136,35
+San Ramón,2022-2,licitacion,478685220,110,43
+San Ramón,2022-2,trato_directo,41554331,11,11
+San Ramón,2023-1,compra_agil,734648794,2499,934
+San Ramón,2023-1,convenio_marco,284177119,309,57
+San Ramón,2023-1,licitacion,467153717,64,47
+San Ramón,2023-1,trato_directo,125454728,19,18
+San Ramón,2023-2,compra_agil,724491638,2800,942
+San Ramón,2023-2,convenio_marco,212833477,235,44
+San Ramón,2023-2,licitacion,1261041805,185,87
+San Ramón,2023-2,trato_directo,90044797,21,15
+San Ramón,2024-1,compra_agil,869911752,4843,902
+San Ramón,2024-1,convenio_marco,215436458,228,47
+San Ramón,2024-1,licitacion,3409215862,581,117
+San Ramón,2024-1,trato_directo,31704000,10,10
+San Ramón,2024-2,compra_agil,648671604,2476,782
+San Ramón,2024-2,convenio_marco,115794703,80,29
+San Ramón,2024-2,licitacion,1406940349,1107,177
+San Ramón,2024-2,trato_directo,103822391,18,18
+San Ramón,2025-1,compra_agil,744895629,2480,662
+San Ramón,2025-1,convenio_marco,132370010,71,18
+San Ramón,2025-1,licitacion,1018443520,547,80
+San Ramón,2025-1,trato_directo,17033451,6,6
+San Ramón,2025-2,compra_agil,885589994,5030,692
+San Ramón,2025-2,convenio_marco,141011293,152,21
+San Ramón,2025-2,licitacion,4516176363,803,192
+San Ramón,2025-2,trato_directo,84467895,10,10
+Santiago,2015-1,convenio_marco,1367714419,4343,1387
+Santiago,2015-1,licitacion,13060972111,2329,1351
+Santiago,2015-1,trato_directo,1372403310,559,348
+Santiago,2015-2,convenio_marco,2363634402,7533,2246
+Santiago,2015-2,licitacion,7834130980,2707,1488
+Santiago,2015-2,trato_directo,555890966,445,270
+Santiago,2016-1,convenio_marco,1513893010,3303,1047
+Santiago,2016-1,licitacion,4462144242,2227,1232
+Santiago,2016-1,trato_directo,771202180,317,162
+Santiago,2016-2,convenio_marco,2723224096,7159,2212
+Santiago,2016-2,licitacion,5452410923,2984,1696
+Santiago,2016-2,trato_directo,629069174,479,240
+Santiago,2017-1,convenio_marco,973350074,3900,1215
+Santiago,2017-1,licitacion,3677641070,2469,1434
+Santiago,2017-1,trato_directo,931599523,284,210
+Santiago,2017-2,convenio_marco,2290174090,7778,2571
+Santiago,2017-2,licitacion,4169602161,2248,1428
+Santiago,2017-2,trato_directo,506035579,495,264
+Santiago,2018-1,convenio_marco,1482974367,4498,1541
+Santiago,2018-1,licitacion,14072845527,1849,1241
+Santiago,2018-1,trato_directo,1202515703,342,205
+Santiago,2018-2,convenio_marco,3236128036,8184,3160
+Santiago,2018-2,licitacion,6319868789,1943,1229
+Santiago,2018-2,trato_directo,595799414,450,209
+Santiago,2019-1,convenio_marco,1490734114,4434,1439
+Santiago,2019-1,licitacion,11768642090,1635,1134
+Santiago,2019-1,trato_directo,2920226309,351,179
+Santiago,2019-2,convenio_marco,2317888477,7125,2505
+Santiago,2019-2,licitacion,9842443144,1749,1110
+Santiago,2019-2,trato_directo,3009857569,296,154
+Santiago,2020-1,compra_agil,27024189,73,40
+Santiago,2020-1,convenio_marco,1293939180,2070,732
+Santiago,2020-1,licitacion,14636238901,1264,854
+Santiago,2020-1,trato_directo,1916901700,525,301
+Santiago,2020-2,compra_agil,109177749,547,186
+Santiago,2020-2,convenio_marco,2277660495,2674,1133
+Santiago,2020-2,licitacion,13128495353,1101,777
+Santiago,2020-2,trato_directo,2253308038,518,247
+Santiago,2021-1,compra_agil,366178219,3303,526
+Santiago,2021-1,convenio_marco,1047996505,678,324
+Santiago,2021-1,licitacion,10774456502,1316,861
+Santiago,2021-1,trato_directo,2697160112,229,189
+Santiago,2021-2,compra_agil,434624466,3595,613
+Santiago,2021-2,convenio_marco,2461023944,858,260
+Santiago,2021-2,licitacion,12670245147,2012,1170
+Santiago,2021-2,trato_directo,1169377996,274,184
+Santiago,2022-1,compra_agil,614094990,4656,698
+Santiago,2022-1,convenio_marco,468338068,334,127
+Santiago,2022-1,licitacion,12849436175,1712,1004
+Santiago,2022-1,trato_directo,3076216303,143,110
+Santiago,2022-2,convenio_marco,2060688730,661,217
+Santiago,2022-2,licitacion,30580950321,1875,1139
+Santiago,2022-2,trato_directo,6560559521,217,143
+Santiago,2023-1,compra_agil,1029944958,8447,872
+Santiago,2023-1,convenio_marco,744110987,513,130
+Santiago,2023-1,licitacion,13594844786,1477,996
+Santiago,2023-1,trato_directo,1575348880,159,125
+Santiago,2023-2,compra_agil,1398076646,13412,988
+Santiago,2023-2,convenio_marco,455212105,543,107
+Santiago,2023-2,licitacion,17777498432,1737,1056
+Santiago,2023-2,trato_directo,5277073707,155,118
+Santiago,2024-1,compra_agil,766278813,8218,632
+Santiago,2024-1,convenio_marco,636021815,618,91
+Santiago,2024-1,licitacion,17232739647,2082,1141
+Santiago,2024-1,trato_directo,2713745726,123,93
+Santiago,2024-2,compra_agil,1319772959,12268,803
+Santiago,2024-2,convenio_marco,927120203,717,120
+Santiago,2024-2,licitacion,22127947832,2134,1115
+Santiago,2024-2,trato_directo,2173707117,144,120
+Santiago,2025-1,compra_agil,1667241092,7491,407
+Santiago,2025-1,convenio_marco,471294400,464,56
+Santiago,2025-1,licitacion,18811692156,772,519
+Santiago,2025-1,trato_directo,2664412589,80,46
+Santiago,2025-2,compra_agil,2114197120,10785,741
+Santiago,2025-2,convenio_marco,595420440,332,82
+Santiago,2025-2,licitacion,27786717051,645,433
+Santiago,2025-2,trato_directo,1914044580,246,51
+Vitacura,2015-1,convenio_marco,457131521,493,193
+Vitacura,2015-1,licitacion,397704466,612,286
+Vitacura,2015-1,trato_directo,179829305,112,67
+Vitacura,2015-2,convenio_marco,601289546,643,221
+Vitacura,2015-2,licitacion,662585456,1186,383
+Vitacura,2015-2,trato_directo,177057368,83,65
+Vitacura,2016-1,convenio_marco,665700260,609,226
+Vitacura,2016-1,licitacion,449995096,654,270
+Vitacura,2016-1,trato_directo,209160984,71,63
+Vitacura,2016-2,convenio_marco,564178511,534,234
+Vitacura,2016-2,licitacion,427535042,850,380
+Vitacura,2016-2,trato_directo,201565768,122,77
+Vitacura,2017-1,convenio_marco,621719795,445,204
+Vitacura,2017-1,licitacion,494317991,594,296
+Vitacura,2017-1,trato_directo,333513928,78,63
+Vitacura,2017-2,convenio_marco,998087011,625,260
+Vitacura,2017-2,licitacion,403423946,792,341
+Vitacura,2017-2,trato_directo,289973634,118,85
+Vitacura,2018-1,convenio_marco,677929562,509,244
+Vitacura,2018-1,licitacion,632747060,762,439
+Vitacura,2018-1,trato_directo,314287895,87,69
+Vitacura,2018-2,convenio_marco,565173923,912,308
+Vitacura,2018-2,licitacion,511112461,776,328
+Vitacura,2018-2,trato_directo,248217478,93,75
+Vitacura,2019-1,convenio_marco,1233805608,910,271
+Vitacura,2019-1,licitacion,2119597417,1234,716
+Vitacura,2019-1,trato_directo,505568573,106,70
+Vitacura,2019-2,convenio_marco,854757394,804,299
+Vitacura,2019-2,licitacion,3521756898,1355,787
+Vitacura,2019-2,trato_directo,524815593,76,64
+Vitacura,2020-1,compra_agil,1081220,9,3
+Vitacura,2020-1,convenio_marco,727154749,587,178
+Vitacura,2020-1,licitacion,3370740405,1055,613
+Vitacura,2020-1,trato_directo,499196247,142,101
+Vitacura,2020-2,compra_agil,42095998,186,51
+Vitacura,2020-2,convenio_marco,657614183,553,232
+Vitacura,2020-2,licitacion,1929673155,928,545
+Vitacura,2020-2,trato_directo,2117242280,62,55
+Vitacura,2021-1,compra_agil,84431874,897,124
+Vitacura,2021-1,convenio_marco,1013594418,261,117
+Vitacura,2021-1,licitacion,1964960275,1272,652
+Vitacura,2021-1,trato_directo,439443692,47,38
+Vitacura,2021-2,compra_agil,123079601,780,199
+Vitacura,2021-2,convenio_marco,147614099,205,88
+Vitacura,2021-2,licitacion,1981615247,1574,857
+Vitacura,2021-2,trato_directo,1269480315,89,68
+Vitacura,2022-1,compra_agil,192792301,1492,268
+Vitacura,2022-1,convenio_marco,698042571,82,48
+Vitacura,2022-1,licitacion,4401241088,1378,724
+Vitacura,2022-1,trato_directo,715139286,80,69
+Vitacura,2022-2,convenio_marco,467956153,59,33
+Vitacura,2022-2,licitacion,7621152614,1705,1004
+Vitacura,2022-2,trato_directo,2792381181,83,75
+Vitacura,2023-1,compra_agil,268152762,1727,367
+Vitacura,2023-1,convenio_marco,714566995,34,18
+Vitacura,2023-1,licitacion,15348415311,1625,945
+Vitacura,2023-1,trato_directo,278037074,49,48
+Vitacura,2023-2,compra_agil,247671368,1640,366
+Vitacura,2023-2,convenio_marco,481038009,45,15
+Vitacura,2023-2,licitacion,26135348579,1748,1024
+Vitacura,2023-2,trato_directo,827022948,75,66
+Vitacura,2024-1,compra_agil,221934119,1329,284
+Vitacura,2024-1,convenio_marco,938306444,58,27
+Vitacura,2024-1,licitacion,14695457895,1576,932
+Vitacura,2024-1,trato_directo,560684668,66,59
+Vitacura,2024-2,compra_agil,278190318,1672,415
+Vitacura,2024-2,convenio_marco,568206123,32,22
+Vitacura,2024-2,licitacion,11436889581,1289,783
+Vitacura,2024-2,trato_directo,4334426716,41,39
+Vitacura,2025-1,compra_agil,457151127,1422,348
+Vitacura,2025-1,convenio_marco,921854301,36,21
+Vitacura,2025-1,licitacion,40152091109,997,678
+Vitacura,2025-1,trato_directo,216341015,37,25
+Vitacura,2025-2,compra_agil,707875646,1447,399
+Vitacura,2025-2,convenio_marco,605557532,52,14
+Vitacura,2025-2,licitacion,6671864392,1169,755
+Vitacura,2025-2,trato_directo,313268487,70,58
+Ñuñoa,2015-1,convenio_marco,268964283,5275,400
+Ñuñoa,2015-1,licitacion,302429661,253,59
+Ñuñoa,2015-1,trato_directo,51789807,55,55
+Ñuñoa,2015-2,convenio_marco,175008047,3339,347
+Ñuñoa,2015-2,licitacion,1258934143,111,46
+Ñuñoa,2015-2,trato_directo,38507960,36,33
+Ñuñoa,2016-1,convenio_marco,337103329,5230,488
+Ñuñoa,2016-1,licitacion,136765522,147,46
+Ñuñoa,2016-1,trato_directo,64662141,40,37
+Ñuñoa,2016-2,convenio_marco,359844140,5578,502
+Ñuñoa,2016-2,licitacion,356529787,174,62
+Ñuñoa,2016-2,trato_directo,196678508,29,27
+Ñuñoa,2017-1,convenio_marco,412503774,6178,606
+Ñuñoa,2017-1,licitacion,531907358,96,30
+Ñuñoa,2017-1,trato_directo,117624066,38,36
+Ñuñoa,2017-2,convenio_marco,304977222,6208,538
+Ñuñoa,2017-2,licitacion,422300212,109,39
+Ñuñoa,2017-2,trato_directo,85838312,28,27
+Ñuñoa,2018-1,convenio_marco,341661849,6027,698
+Ñuñoa,2018-1,licitacion,1175842391,56,35
+Ñuñoa,2018-1,trato_directo,26870947,23,22
+Ñuñoa,2018-2,convenio_marco,354912101,5874,685
+Ñuñoa,2018-2,licitacion,226512744,145,68
+Ñuñoa,2018-2,trato_directo,113496285,109,27
+Ñuñoa,2019-1,convenio_marco,674177930,6166,670
+Ñuñoa,2019-1,licitacion,439800522,150,89
+Ñuñoa,2019-1,trato_directo,7341924,116,20
+Ñuñoa,2019-2,convenio_marco,474473531,5781,664
+Ñuñoa,2019-2,licitacion,421418330,168,128
+Ñuñoa,2019-2,trato_directo,28244829,367,57
+Ñuñoa,2020-1,compra_agil,10268036,32,32
+Ñuñoa,2020-1,convenio_marco,658697059,2327,363
+Ñuñoa,2020-1,licitacion,366186541,82,58
+Ñuñoa,2020-1,trato_directo,239243214,541,96
+Ñuñoa,2020-2,compra_agil,25582973,65,65
+Ñuñoa,2020-2,convenio_marco,1017114516,2262,289
+Ñuñoa,2020-2,licitacion,835927678,215,172
+Ñuñoa,2020-2,trato_directo,196132506,19,19
+Ñuñoa,2021-1,compra_agil,70159623,232,232
+Ñuñoa,2021-1,convenio_marco,577928538,412,74
+Ñuñoa,2021-1,licitacion,575364179,144,97
+Ñuñoa,2021-1,trato_directo,145332943,9,9
+Ñuñoa,2021-2,compra_agil,104199763,237,237
+Ñuñoa,2021-2,convenio_marco,185388749,54,27
+Ñuñoa,2021-2,licitacion,965516324,262,208
+Ñuñoa,2021-2,trato_directo,4711733,10,8
+Ñuñoa,2022-1,compra_agil,119073218,339,339
+Ñuñoa,2022-1,convenio_marco,350594503,36,17
+Ñuñoa,2022-1,licitacion,1792039257,243,208
+Ñuñoa,2022-1,trato_directo,41960483,7,7
+Ñuñoa,2022-2,convenio_marco,183435517,31,14
+Ñuñoa,2022-2,licitacion,2159887186,228,188
+Ñuñoa,2022-2,trato_directo,41427791,11,9
+Ñuñoa,2023-1,compra_agil,115134867,324,310
+Ñuñoa,2023-1,convenio_marco,380034197,22,13
+Ñuñoa,2023-1,licitacion,3436083598,172,137
+Ñuñoa,2023-1,trato_directo,24332504,6,6
+Ñuñoa,2023-2,compra_agil,132559449,338,329
+Ñuñoa,2023-2,convenio_marco,66065995,14,6
+Ñuñoa,2023-2,licitacion,28391850401,166,122
+Ñuñoa,2023-2,trato_directo,28204967,15,10
+Ñuñoa,2024-1,compra_agil,157597731,461,444
+Ñuñoa,2024-1,convenio_marco,328582539,14,10
+Ñuñoa,2024-1,licitacion,3603076299,179,135
+Ñuñoa,2024-1,trato_directo,50803225,16,13
+Ñuñoa,2024-2,compra_agil,172123506,451,427
+Ñuñoa,2024-2,convenio_marco,121002371,11,6
+Ñuñoa,2024-2,licitacion,2189373679,146,123
+Ñuñoa,2024-2,trato_directo,138311911,7,7
+Ñuñoa,2025-1,compra_agil,235957389,399,392
+Ñuñoa,2025-1,convenio_marco,343029851,35,14
+Ñuñoa,2025-1,licitacion,2205048849,138,122
+Ñuñoa,2025-1,trato_directo,101846755,16,15
+Ñuñoa,2025-2,compra_agil,374927470,416,408
+Ñuñoa,2025-2,convenio_marco,305398147,59,21
+Ñuñoa,2025-2,licitacion,3599656788,170,124
+Ñuñoa,2025-2,trato_directo,3254782095,21,16
